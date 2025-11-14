@@ -1,0 +1,602 @@
+[
+  {
+    "id": "Dota patch 7.39e_chunk_0",
+    "text": "Gameplay Update 7 . 39e 7 . 39e7 . 39d7 . 39c7 . 39b7 . 397 . 38c7 . 38b7 . 387 . 37e7 . 37d7 . 37c7 . 37b7 . 377 . 36c7 . 36b7 . 36a7 . 367 . 35d7 . 35c7 . 35b7 . 357 . 34e7 . 34d7 . 34c7 . 34b7 . 347 . 33e7 . 33d7 . 33c7 . 33b7 . 337 . 32e7 . 32d7 . 32c7 . 32b7 . 327 . 31d7 . 31c7 . 31b7 . 317 . 30e7 . 30d7 . 30c7 . 30b7 . 307 . 29d7 . 29c7 . 29b7 . 297 . 28c7 . 28b7 . 28a7 . 287 . 27d7 . 27c7 . 27b7 . 27a7 . 277 . 26c7 . 26b7 . 26a7 . 267 . 25c7 . 25b7 . 25a7 . 257 . 24b7 . 247 . 23f7 . 23e7 . 23d7 . 23c7 . 23b7 . 23a7 . 237 . 22h7 . 22g7 . 22f7 . 22e7 . 22d7 . 22c7 . 22b7 . 227 . 21d7 . 21c7 . 21b7 . 217 . 20e7 . 20d7 . 20c7 . 20b7 . 207 . 19d7 . 19c7 . 19b7 . 197 . 187 . 177 . 167 . 157 . 147 . 13b7 . 137 . 127 . 117 . 107 . 097 . 08 General Updates General Changes Scan no longer triggers on creep heroes ( with the exception of Lone Druid ' s Spirit Bear ) Neutral Creep Gold / XP penalty for stacked camps increased from 15 % to 20 % Neutral Creep Updates Alpha Wolf Packleader ' s Aura damage decreased from 30 % to 20 % Dark Troll Summoner Skeleton Warrior Rally aura bonus attack damage decreased from 3 to 2 Item Updates Aeon Disk Combo Breaker now starts on a 6s cooldown after being assembled for the first time Ghost Scepter Ghost Form is no longer active while the wearer is Debuff Immune Ethereal Blade Ether Blast ethereal form is no longer applied while the target is Debuff Immune Helm of the Dominator Dominate now has a 50 mana cost Dominate can no longer be used if the currently dominated creep took damage from hero - based sources in the last 3s Dominated Creep movement speed decreased from 380 to 370 Helm of the Overlord Dominate now has a 50 mana cost Dominate can no longer be",
+    "token_count": 400,
+    "source_file": "Dota patch 7.39e.docx",
+    "chunk_index": 0,
+    "language": "en",
+    "processed_at": "2025-11-12T10:51:22.452766",
+    "index_id": 0
+  },
+  {
+    "id": "Dota patch 7.39e_chunk_1",
+    "text": "used if the currently dominated creep took damage from hero - based sources in the last 3s Refresher Orb Reset Cooldowns cooldown now increases by 10s with each subsequent use up to 210s Reset Cooldowns mana cost increased from 350 to 400 Neutral Item Updates Artifact Changes Outworld Staff Self - Exile now makes the user invulnerable and immobile for the duration , instead of hidden Enchantment Changes Timeless Debuff Duration bonus decreased from + 10 / 15 % to + 8 / 15 % Spell Amplification bonus decreased from + 8 / 16 % to + 6 / 16 % Boundless Cast Range bonus decreased from + 350 to + 275 Hero Updates Abaddon Abilities Borrowed Time Cooldown increased from 90 / 80 / 70s to 90 / 85 / 80s Bane Abilities Enfeeble Cast Range decreased from 800 / 900 / 1000 / 1100 to 700 / 800 / 900 / 1000 Beastmaster Base damage decreased by 2 Damage at level 1 decreased from 52 – 56 to 50 – 54 Talents Level 15 Talent Movespeed to Beastmaster and his summons decreased from + 20 to + 15 Level 25 Talent Primal Roar Cooldown Reduction decreased from 30s to 25s Brewmaster Base armor increased by 1 Centaur Warrunner Abilities Work Horse Hitch a ride cast range decreased from 300 to 250 Crystal Maiden Facets Arcane Overflow Arcane Aura Mana Granted increased from 15 % to 20 % Dawnbreaker Abilities Solar Guardian Aghanim ' s Scepter aura linger duration decreased from 3s to 2s Disruptor Facets Thunderstorm Thunder Strike Slow duration bonus decreased from + 100 % to + 75 % Abilities Static Storm Cooldown increased from 90 / 80 / 70s to 100 / 85 / 70s Earth Spirit Abilities Geomagnetic Grip Remnant Damage increased from 70 / 140 / 210 / 280 to 75 / 150 / 225 / 300 Earthshaker Facets Tectonic Buildup Aftershock Bonus AoE decreased from 40 to 30 Abilities Aftershock Damage decreased from 70 / 100 / 130 / 160 to 65 / 90 / 115 / 140 Talents Level 10 Talent Fissure Damage decreased from + 90 to + 75 Hoodwink Abilities Hunter ' s Boomerang Incoming Spell Damage Amp decreased from 25 % to 20 % Jakiro Abilities Liquid Frost Impact Damage increased from 10 / 15 / 20 / 25 to 15 / 20 / 25 / 30 Duration increased",
+    "token_count": 400,
+    "source_file": "Dota patch 7.39e.docx",
+    "chunk_index": 1,
+    "language": "en",
+    "processed_at": "2025-11-12T10:51:22.452766",
+    "index_id": 1
+  },
+  {
+    "id": "Dota patch 7.39e_chunk_2",
+    "text": "from 4s to 5s Kez Added to Captain ' s Mode Base Mana Regen increased from 0 to 0 . 25 Facets Flutter Switch Discipline The first hit bonus is now consumed by the first attack of Echo Slash and Raptor Dance , rather than applying to the entire cast Fixed the Katana bonus being lost if Echo Slash hit nothing Abilities Switch Discipline Fixed a bug with Aghanim ' s Scepter that would allow extra Sai abilities to skip cooldown Kazurai Katana Impale damage changed from post - critical strike bonus damage to a separate instance of physical spell damage Raptor Dance Max Health as Damage decreased from 3 % to 2 . 5 % Can no longer be interrupted by casting Grappling Claw Falcon Rush Now has an 825 break distance Attack Speed Factor rescaled from 6 / 8 / 10 / 12 % to 9 % Shodo Sai Mark Critical Strike decreased from 140 / 160 / 180 / 200 % to 125 / 150 / 175 / 200 % Leshrac Abilities Nihilism Ethereal form is not applied if the target is Debuff Immune Lich Base Intelligence increased from 26 to 28 Damage at level 1 increased by 2 ( from 50 – 59 to 52 – 61 ) Lifestealer Abilities Feast Hero Creeps no longer count as heroes for Lifestealer ' s permanent Health bonus Lina Abilities Light Strike Array Stun Duration increased from 1 / 1 . 4 / 1 . 8 / 2 . 2s to 1 . 2 / 1 . 6 / 2 . 0 / 2 . 4s Magnus Abilities Skewer Movement is now cancelled if Magnus is interrupted Marci Abilities Unleash Bonus Attack Speed decreased from 700 / 975 / 1325 to 700 / 925 / 1150 Mars Abilities Arena Of Blood Duration rescaled from 5 / 6 / 7s to 5 . 5s Medusa Abilities Mana Shield Base Damage per Mana decreased from 2 . 2 to 2 .",
+    "token_count": 330,
+    "source_file": "Dota patch 7.39e.docx",
+    "chunk_index": 2,
+    "language": "en",
+    "processed_at": "2025-11-12T10:51:22.452766",
+    "index_id": 2
+  },
+  {
+    "id": "Dota patch 7.39e_chunk_3",
+    "text": "0 Monkey King Abilities Boundless Strike Aghanim ' s Shard portion of Primal Spring ' s max power decreased from 40 % to 35 % Tree Dance Movement is now cancelled if Monkey King is interrupted Talents Level 10 Talent Primal Spring Max Damage decreased from + 100 to + 85 Naga Siren Facets Deluge Deluge Damage decreased from 80 / 150 / 220 / 290 to 80 / 140 / 200 / 260 Abilities Song of the Siren Aghanim ' s Shard Max HP Regen per Second decreased from 5 / 6 / 7 % to 4 / 5 / 6 % Necrophos Abilities Ghost Shroud Ethereal form is not applied if the target is Debuff Immune Omniknight Abilities Purification Cast Range increased from 600 to 700 Outworld Destroyer Abilities Arcane Orb Cooldown decreased from 6 / 4 / 2 / 0s to 4 . 5 / 3 / 1 . 5 / 0s Phantom Assassin Abilities Immaterial Bonus Evasion increased from 20 / 30 / 40 / 50 % to 25 / 35 / 45 / 55 % Phoenix Abilities Supernova Aghanim ' s Scepter cast range decreased from 500 to 450 Puck Facets Curveball Illusory Orb Bonus damage per tick decreased from 5 % to 3 % Pugna Facets Siphoning Ward Nether Ward Damage to HP decreased from 30 % to 25 % Damage to Mana decreased from 40 % to 30 % Abilities Decrepify Ethereal form is not applied if the target is Debuff Immune Queen of Pain Abilities Sonic Wave Damage decreased from 350 / 500 / 650 to 325 / 475 / 625 Razor Abilities Static Link Cooldown decreased from 50 / 40 / 30 / 20s to 44 / 36 / 28 / 20s Riki Abilities Blink Strike Slow Duration increased from 0 . 4s to 0 . 5s Ringmaster Abilities Tame the Beasts Min Damage increased from 45 / 70 / 95 / 120 to 50 / 75 / 100 / 125 Rubick Talents Level 10 Talent Telekinesis Landing damage increased from 150 to 165 Sand King Facets Sandblast Sand Storm Blind debuff no longer affects buildings Silencer Abilities Arcane Curse Cast Range decreased from 1000 to 850 Snapfire Facets Full Bore Scatterblast Max range decreased from 1300 to 1200 Abilities Firesnap Cookie Cast Range decreased from 700 to 650 Storm Spirit Abilities Overload Aghanim ' s Shard active mana cost decreased",
+    "token_count": 400,
+    "source_file": "Dota patch 7.39e.docx",
+    "chunk_index": 3,
+    "language": "en",
+    "processed_at": "2025-11-12T10:51:22.452766",
+    "index_id": 3
+  },
+  {
+    "id": "Dota patch 7.39e_chunk_4",
+    "text": "from 150 to 100 Sven Facets Wrath of God Bonus Damage per STR decreased from 0 / 0 . 3 / 0 . 4 / 0 . 5 to 0 / 0 . 2 / 0 . 3 / 0 . 4 Techies Abilities Reactive Tazer Cooldown decreased from 30 / 25 / 20 / 15s to 26 / 22 / 18 / 14s Proximity Mines Min damage at the edge increased from 50 % to 60 % Timbersaw Abilities Reactive Armor Stacks gained from hero attacks increased from 3 to 4 Treant Protector Base armor increased by 1 Abilities Living Armor Bonus Armor increased from 4 / 6 / 8 / 10 to 4 / 7 / 10 / 13 Troll Warlord Talents Level 10 Talent Berserker ' s Rage Movement Speed decreased from + 25 to + 20 Level 15 Talent Fervor Attack Speed decreased from + 5 to + 4 Tusk Abilities Bitter Chill Attack Speed Slow increased from 15 / 35 / 55 / 75 to 20 / 40 / 60 / 80 Ursa Abilities Earthshock Aghanim ' s Shard Enrage duration decreased from 1 . 3s to 1 . 2s Talents Level 10 Talent Fury Swipes Reset Time decreased from + 12s to + 9s Venomancer Base agility increased from 24 to 25 Damage at level 1 increased by 1 ( from 45 – 48 to 46 – 49 ) Abilities Plague Ward Ward damage increased from 14 / 22 / 30 / 38 to 16 / 24 / 32 / 40 Viper Abilities Corrosive Skin Attack Slow increased from 8 / 16 / 24 / 32 to 9 / 18 / 27 / 36 Visage Abilities Grave Chill Mana Cost decreased from 90 to 75",
+    "token_count": 291,
+    "source_file": "Dota patch 7.39e.docx",
+    "chunk_index": 4,
+    "language": "en",
+    "processed_at": "2025-11-12T10:51:22.452766",
+    "index_id": 4
+  },
+  {
+    "id": "Dota Wiki_chunk_0",
+    "text": "Dota 2 is a 2013 multiplayer online battle arena ( MOBA ) video game by Valve . The game is a sequel to Defense of the Ancients ( DotA ) , a community - created mod for Blizzard Entertainment ' s Warcraft III : Reign of Chaos . Dota 2 is played in matches between two teams of five players , with each team occupying and defending their own separate base on the map . Each of the ten players independently controls a character known as a hero that has unique abilities and differing styles of play . During a match , players collect experience points ( XP ) and items for their heroes to defeat the opposing team ' s heroes in player versus player ( PvP ) combat . A team wins by being the first to destroy the other team ' s Ancient , a large durable structure located in the center of each base . Development of Dota 2 began in 2009 when IceFrog , lead designer of Defense of the Ancients , was hired by Valve to design a standalone remake in the Source game engine . It was released for Windows , OS X , and Linux via the digital distribution platform Steam in July 2013 , following a Windows - only open beta phase that began two years prior . Dota 2 is fully free - to - play with no heroes or any other gameplay element needing to be bought or otherwise unlocked . Valve supports the game as a service , selling loot boxes and a battle pass subscription system called Dota Plus that offer non - gameplay altering virtual goods in return , such as hero cosmetics and audio replacement packs . The game was ported to the Source 2 engine in 2015 , making it the first game to use it . Dota 2 has a large esports scene , with teams from around the world playing in various professional leagues and tournaments . Valve organizes The International , the game ' s premier tournament which is held annually . Internationals feature a crowdfunded prize money system that has seen amounts in upwards of US $ 40 million , making Dota 2 one of the most lucrative esports .",
+    "token_count": 380,
+    "source_file": "Dota Wiki.txt",
+    "chunk_index": 0,
+    "language": "en",
+    "processed_at": "2025-11-12T10:51:22.494031",
+    "index_id": 5
+  },
+  {
+    "id": "Dota Wiki_chunk_1",
+    "text": "Media coverage of most tournaments is done by a selection of on - site staff who provide commentary and analysis for the ongoing matches similar to traditional sporting events . In addition to playing live to audiences in arenas and stadiums , broadcasts of them are also streamed over the internet and sometimes simulcast on television , with several million in viewership numbers . Despite criticism going towards its steep learning curve and overall complexity , Dota 2 was praised for its rewarding gameplay , production quality , and faithfulness to its predecessor , with many considering it to be one of the greatest video games of all time . It has been one of the most played games on Steam since its release , with over a million concurrent players at its peak . The popularity of the game has led to merchandise and media adaptations , including comic books and an anime series , as well as promotional tie - ins to other games and media . The game allows for the community to create their own gamemodes , maps , and cosmetics , which are uploaded to the Steam Workshop . Two spinoff games , Artifact and Dota Underlords , were released by Valve . Dota 2 has been used in machine learning experiments , with a team of bots known as the OpenAI Five showing the capability to defeat professional players . Gameplay See also : Mechanics of multiplayer online battle arena games Dota 2 is a multiplayer online battle arena ( MOBA ) video game in which two teams of five players compete to destroy a large structure defended by the opposing team known as the \" Ancient \" whilst defending their own . [ 1 ] [ 2 ] As in Defense of the Ancients , the game is controlled using standard real - time strategy controls , and is presented on a single map in a three - dimensional isometric perspective . [ 1 ] [ 3 ] Ten players each control one of the game ' s 126 playable characters , known as \" heroes \" , with each having their own design , strengths , and weaknesses . [ 1 ] [ 2 ] [ 4 ] Heroes are divided into two primary roles , known as the core and support .",
+    "token_count": 391,
+    "source_file": "Dota Wiki.txt",
+    "chunk_index": 1,
+    "language": "en",
+    "processed_at": "2025-11-12T10:51:22.494031",
+    "index_id": 6
+  },
+  {
+    "id": "Dota Wiki_chunk_2",
+    "text": "[ 5 ] [ 6 ] A game of Dota 2 in progress , showing the Radiant team inside their base at the beginning of a match Cores , which are also called carries , begin each match as weak and vulnerable , but are able to become more powerful later in the game , thus becoming able to \" carry \" their team to victory . [ 5 ] [ 7 ] Supports generally lack abilities that deal heavy damage , instead having ones with more functionality and utility that provide assistance for their cores , such as providing healing and other buffs . [ 5 ] [ 6 ] [ 8 ] Players select their hero during a pre - game drafting phase , where they can discuss potential strategies and hero matchups with their teammates . [ 2 ] [ 5 ] [ 6 ] Heroes are removed from the drafting pool and become unavailable for all other players once one is selected , and can not be changed once the drafting phase is over . All heroes have a basic attack in addition to powerful abilities , which are the primary method of fighting . Each hero has at least four of them , all of which are unique . [ 3 ] [ 8 ] Heroes begin each game with an experience level of one , only having access to one of their abilities , but are able to level up and become more powerful during the course of the game , up to a maximum level of 30 . [ 2 ] [ 5 ] Whenever a hero gains an experience level , the player is able to unlock another of their abilities or improve one already learned . [ 2 ] [ 5 ] The most powerful ability for each hero is known as their \" ultimate \" , which requires them to have an experience level of six in order to use . [ 6 ] In order to prevent abilities from being overused , a magic system is featured in the game . Activating an ability costs a hero some of their \" mana points \" , which slowly regenerates over time .",
+    "token_count": 372,
+    "source_file": "Dota Wiki.txt",
+    "chunk_index": 2,
+    "language": "en",
+    "processed_at": "2025-11-12T10:51:22.494031",
+    "index_id": 7
+  },
+  {
+    "id": "Dota Wiki_chunk_3",
+    "text": "[ 3 ] [ 9 ] Using an ability will also cause it to enter a cooldown period , in which the ability can not be used again until a timer resets . All heroes have three attributes : strength , intelligence , and agility , which affect health points , mana points , and attack speed , respectively . [ 5 ] Each hero has a primary attribute which adds to their basic non - ability damage output and other minor buffs — with four attributes including Universal , which rewards extra damage for attribute points . [ 5 ] [ 10 ] [ 11 ] Heroes have an ability augmentation system known as the \" Talent Tree \" , which allow players more choices on how to develop their hero . [ 5 ] [ 6 ] If a hero runs out of health points and dies , they are removed from active play until a timer counts down to zero , where they are respawned in their base with only some gold lost . [ 12 ] The two teams — known as the Radiant and Dire — occupy fortified bases in opposite corners of the map , which is divided in half by a crossable river and connected by three paths , which are referred to as \" lanes \" . [ 1 ] [ 2 ] The lanes are guarded by defensive towers that attack any opposing unit who gets within its line of sight . [ 2 ] A small group of weak computer - controlled creatures called \" creeps \" travel predefined paths along the lanes and attempt to attack any opposing heroes , creeps , and buildings in their way . [ 2 ] [ 6 ] [ 12 ] Creeps periodically spawn throughout the game in groups from two buildings , called the \" barracks \" , that exist in each lane and are located within the team ' s bases . [ 2 ] [ 6 ] [ 13 ] The map is permanently covered for both teams in fog of war , which prevents a team from seeing the opposing team ' s heroes and creeps if they are not directly in sight of themselves or an allied unit .",
+    "token_count": 381,
+    "source_file": "Dota Wiki.txt",
+    "chunk_index": 3,
+    "language": "en",
+    "processed_at": "2025-11-12T10:51:22.494031",
+    "index_id": 8
+  },
+  {
+    "id": "Dota Wiki_chunk_4",
+    "text": "The map features a day - night cycle , with some hero abilities and other game mechanics being altered depending on the time of the cycle . [ 5 ] Present on the map are \" neutral creeps \" that are hostile to both teams , and reside in marked locations on the map known as \" camps \" . Camps are located in the area between the lanes known as the \" jungle \" , which both sides of the map have . [ 6 ] [ 14 ] Neutral creeps do not attack unless provoked , and respawn over time if killed . The most powerful neutral creep is named \" Roshan \" , who is a unique boss that may be defeated by either team to obtain special items , such as one that allows a one - time resurrection if the hero that holds it is killed . [ 2 ] [ 6 ] [ 15 ] Roshan will respawn around ten minutes after being killed , and becomes progressively harder to kill as the match progresses over time . [ 15 ] Runes , which are special items that spawn in set positions on the map every few minutes , offer heroes temporary , but powerful power - ups when collected , such as double damage and invisibility . [ 5 ] [ 6 ] In addition to having abilities becoming stronger during the game , players are able to buy items from set locations on the map called shops that provide their own special abilities . [ 2 ] [ 6 ] [ 15 ] [ 16 ] Items are not limited to specific heroes , and can be bought by anyone . In order to obtain an item , players must be able to afford it with gold at shops located on the map , which is primarily obtained by killing enemy heroes , destroying enemy structures , and killing creeps , with the latter being an act called \" farming \" . [ 2 ] [ 5 ] [ 12 ] Only the hero that lands the killing blow on a creep obtains gold from it , an act called \" last hitting \" , but all allies receive a share of gold when an enemy hero dies close to them .",
+    "token_count": 390,
+    "source_file": "Dota Wiki.txt",
+    "chunk_index": 4,
+    "language": "en",
+    "processed_at": "2025-11-12T10:51:22.494031",
+    "index_id": 9
+  },
+  {
+    "id": "Dota Wiki_chunk_5",
+    "text": "[ 3 ] [ 12 ] Players are able to \" deny \" allied units and structures by last hitting them , which then prevents their opponents from getting full experience from them . [ 12 ] [ 15 ] Gold can not be shared between teammates , with each player having their own independent stash . Players receive a continuous , but small stream of gold over the course of a match . [ 5 ] [ 17 ] Dota 2 features multiple game types which mainly alter the way hero selection is handled ; examples include \" All Pick \" , which offer no restrictions on hero selection , \" All Random \" , which randomly assigns a hero for each player , \" Captain ' s Mode \" , where a single player on each team selects heroes for their entire team and is primarily used for professional play , and \" Turbo \" , an expedited version of All Pick featuring increased gold and experience gain , weaker towers , and faster respawn times . [ 18 ] [ 19 ] [ 20 ] Matches usually last around 30 minutes to an hour , although they can last forever as long as both Ancients remain standing . [ 6 ] [ 21 ] In Captain ' s Mode games , an additional \" GG \" forfeit feature is available to end games early . [ 22 ] Dota 2 occasionally features limited - time events that present players with alternative game modes that do not follow the game ' s standard rules . [ 23 ] Some of these included the Halloween - themed Diretide event , [ 24 ] the Christmas - themed Frostivus event , [ 25 ] and the New Bloom Festival , which celebrated the coming of spring . [ 26 ] Other special game modes have been created by Valve , including a ten - versus - ten mode , [ 27 ] a Halloween - themed capture point mode \" Colosseum \" , [ 28 ] a combat arena mode \" Overthrow \" , [ 29 ] \" Siltbreaker \" , a story - driven cooperative campaign mode , [ 30 ] and \" The Underhollow \" , a battle royale mode .",
+    "token_count": 383,
+    "source_file": "Dota Wiki.txt",
+    "chunk_index": 5,
+    "language": "en",
+    "processed_at": "2025-11-12T10:51:22.494031",
+    "index_id": 10
+  },
+  {
+    "id": "Dota Wiki_chunk_6",
+    "text": "[ 31 ] The move to the Source 2 engine in 2015 added the \" Arcade \" feature , which allows for community - created game modes , with the more popular ones having dedicated server hosting by Valve . [ 32 ] [ 33 ] One popular example , known as Dota Auto Chess , had over seven million in - game subscribers by April 2019 . [ 34 ] [ 35 ] [ 36 ] Owing to its popularity , Valve met with the mod ' s developers , the Chinese - based Drodo Studio , to discuss directly collaborating on a standalone version . However , the two companies were unable to come to an agreement , with them both stating that it was in their best interest to develop their own separate games . [ 37 ] Valve ' s version , Dota Underlords , was released in February 2020 and continued to use the Dota setting , [ 38 ] while Drodo ' s game , Auto Chess , was developed using no Dota 2 assets . [ 39 ] [ 40 ] Development See also : List of video games derived from mods Defense of the Ancients , the original mod from Warcraft III that Dota 2 was based on The Dota series began in 2003 with Defense of the Ancients ( DotA ) — a mod for Blizzard Entertainment ' s Warcraft III : Reign of Chaos — created by the pseudonymous designer \" Eul \" . [ 41 ] An expansion pack for Warcraft III , The Frozen Throne , was released later that year ; a series of Defense of the Ancients clone mods for the new game competed for popularity . DotA : Allstars by Steve Feak was the most successful , [ 42 ] and Feak , with his friend Steve Mescon , created the official Defense of the Ancients community website and the holding company DotA - Allstars , LLC . [ 43 ] When Feak retired from DotA : Allstars in 2005 , a fellow website user under the pseudonym IceFrog , became its lead designer . [ 44 ] By the late 2000s , Defense of the Ancients became one of the most popular mods worldwide , as well as a prominent esports game .",
+    "token_count": 389,
+    "source_file": "Dota Wiki.txt",
+    "chunk_index": 6,
+    "language": "en",
+    "processed_at": "2025-11-12T10:51:22.494031",
+    "index_id": 11
+  },
+  {
+    "id": "Dota Wiki_chunk_7",
+    "text": "[ 45 ] IceFrog and Mescon later had a falling out in May 2009 , which prompted the former to establish a new community website at playdota . com . [ 46 ] Rob Pardo , the executive vice president of Blizzard Entertainment at the time , stated that the company had discussed with IceFrog in person the possibility of developing a MOBA but that they felt they were not ready to commit to such an endeavor . [ 47 ] Valve ' s interest in the Dota intellectual property began when several veteran employees , including Team Fortress 2 designer Robin Walker and executive Erik Johnson , became fans of the mod and wanted to build a modern sequel . [ 48 ] The company corresponded with IceFrog by email about his long - term plans for the project , [ 49 ] and he was subsequently hired to design a sequel . [ 50 ] IceFrog announced his new position through his blog in October 2009 , [ 51 ] with Dota 2 being announced a year later . [ 52 ] Valve adopted the word \" Dota \" , derived from the original mod ' s acronym , as the name for its newly acquired franchise . Johnson argued that the word referred to a concept , and was not an acronym . [ 50 ] Shortly after the announcement of Dota 2 , Valve filed a trademark claim to the Dota name . [ 53 ] At Gamescom 2011 , company president Gabe Newell explained that the trademark was needed to develop a sequel with the already - identifiable brand . [ 54 ] Holding the Dota name to be a community asset , Feak and Mescon filed an opposing trademark for Dota on behalf of DotA - Allstars , LLC ( then a subsidiary of Riot Games ) in August 2010 . [ 43 ] Rob Pardo similarly stated that the Dota name belonged to the mod ' s community . Blizzard acquired DotA - Allstars , LLC from Riot Games and filed an opposition against Valve in November 2011 , citing Blizzard ' s ownership of both the Warcraft III World Editor and DotA - Allstars , LLC as proper claims to the franchise name .",
+    "token_count": 382,
+    "source_file": "Dota Wiki.txt",
+    "chunk_index": 7,
+    "language": "en",
+    "processed_at": "2025-11-12T10:51:22.494031",
+    "index_id": 12
+  },
+  {
+    "id": "Dota Wiki_chunk_8",
+    "text": "[ 55 ] The dispute was settled in May 2012 , with Valve retaining commercial rights to the Dota trademark , while allowing non - commercial use of the name by third - parties . [ 56 ] In 2017 , Valve ' s ownership of the franchise was again challenged , after a 2004 internet forum post from Eul was brought to light by a Chinese company known as uCool , who had released a mobile game in 2014 that used characters from the Dota universe . [ 57 ] uCool , who was previously involved in a lawsuit with Blizzard in 2015 for similar reasons , [ 58 ] along with another Chinese company , Lilith Games , argued that the forum post invalidated any ownership claims of the intellectual property , stating that the Dota property was an open - source , collective work that could not be copyrighted by anyone in particular . [ 57 ] [ 59 ] Judge Charles R . Breyer denied uCool ' s motion for summary dismissal , with Blizzard filing motions to dismiss all claims against uCool and Lilith with prejudice . [ 57 ] [ 60 ] [ 61 ] An early goal of the Dota 2 team was the adaptation of Defense of the Ancients ' aesthetic style for the Source engine . [ 52 ] The Radiant and Dire factions replaced the Sentinel and Scourge from the mod , respectively . Character names , abilities , items and map design from the mod were largely retained , with some changes due to trademarks owned by Blizzard . In the first Q & A session regarding Dota 2 , IceFrog explained that the game would build upon the mod without making significant changes to its core . [ 50 ] Valve hired Eul and contracted major contributors from the Defense of the Ancients community , including artist Kendrick Lim , to assist with the sequel . [ 62 ] Additional contributions from sources outside of Valve were also sought regularly for Dota 2 , as to continue Defense of the Ancients ' tradition of community - sourced development .",
+    "token_count": 361,
+    "source_file": "Dota Wiki.txt",
+    "chunk_index": 8,
+    "language": "en",
+    "processed_at": "2025-11-12T10:51:22.494031",
+    "index_id": 13
+  },
+  {
+    "id": "Dota Wiki_chunk_9",
+    "text": "[ 63 ] One of the composers of Warcraft III : Reign of Chaos , Jason Hayes , was hired to collaborate with Tim Larkin to write the original score for the game , which was conducted by Timothy Williams and performed and recorded by the Northwest Sinfonia at Bastyr University . [ 64 ] [ 65 ] Valve had Half - Life series writer Marc Laidlaw , science fiction author Ted Kosmatka , and other employees contributed hero dialog and lore . [ 66 ] [ 67 ] Notable voice actors for heroes include Nolan North , Dave Fennoy , Jon St . John , Ellen McLain , Fred Tatasciore , Merle Dandridge , Jen Taylor , and John Patrick Lowrie , among others . [ 68 ] The Source engine was updated with new features to accommodate Dota 2 , such as high - end cloth modeling and improved global lighting . [ 52 ] The game features Steam integration , which provides its social component and cloud storage for personal settings . In November 2013 , Valve introduced a coaching system that allows experienced players to tutor newer players with in - game tools . [ 69 ] As with previous Valve multiplayer games , players are able to spectate live matches of Dota 2 played by others , [ 69 ] and local area network ( LAN ) multiplayer support allows for local competitions . [ 70 ] [ 71 ] Some of these events may be spectated via the purchase of tickets from the \" Dota Store \" , which give players in - game access to matches . Ticket fees are apportioned in part to tournament organizers . [ 72 ] The game features an in - game fantasy sports system , which is modeled after traditional fantasy sports and feature professional Dota 2 players and teams . [ 73 ] Players are able to spectate games in virtual reality ( VR ) with up to 15 others , which was added in an update in July 2016 . [ 74 ] The update added a hero showcase mode , which allows players to see all of the heroes and their cosmetics full - size in virtual reality .",
+    "token_count": 375,
+    "source_file": "Dota Wiki.txt",
+    "chunk_index": 9,
+    "language": "en",
+    "processed_at": "2025-11-12T10:51:22.494031",
+    "index_id": 14
+  },
+  {
+    "id": "Dota Wiki_chunk_10",
+    "text": "[ 75 ] As part of a plan to develop Dota 2 into a social network , Newell announced in April 2012 that the game would be free - to - play , and that community contributions would be a cornerstone feature . [ 76 ] Instead , revenue is generated through the \" Dota Store \" , which offers for - purchase cosmetic virtual goods , such as custom armor and weapons for their heroes . [ 77 ] It was announced that the full roster of heroes would be available at launch for free . [ 78 ] Until the game ' s release in 2013 , players were able to purchase an early access bundle , which included a digital copy of Dota 2 and several cosmetic items . [ 79 ] Included as optional downloadable content ( DLC ) , the Dota 2 Workshop Tools are a set of Source 2 software development kit ( SDK ) tools that allow content creators to create new hero cosmetics , as well as custom game modes , maps , and bot scripts . [ 80 ] [ 81 ] [ 82 ] Highly rated cosmetics , through the Steam Workshop , are available in the in - game store if they are accepted by Valve . This model was fashioned after Valve ' s Team Fortress 2 , which had earned Workshop designers of cosmetic items of that game over $ 3 . 5 million by June 2011 . [ 78 ] Newell revealed that the average Steam Workshop contributor for Dota 2 and Team Fortress 2 made approximately $ 15 , 000 from their creations in 2013 . [ 83 ] By 2015 , sales of Dota 2 virtual goods had earned Valve over $ 238 million in revenue , according to the digital game market research group SuperData . [ 84 ] In 2016 , Valve introduced the \" Custom Game Pass \" option for creators of custom game modes , which allows them to be funded by way of microtransactions by adding exclusive features , content , and other changes to their game mode for players who buy it .",
+    "token_count": 365,
+    "source_file": "Dota Wiki.txt",
+    "chunk_index": 10,
+    "language": "en",
+    "processed_at": "2025-11-12T10:51:22.494031",
+    "index_id": 15
+  },
+  {
+    "id": "Dota Wiki_chunk_11",
+    "text": "[ 85 ] Dota 2 includes a seasonal Elo rating - based matchmaking system , which is measured by a numerical value known as \" matchmaking rating \" ( MMR ) that is tracked separately for core and support roles , and ranked into different tiers . [ 86 ] MMR is updated based on if a player won or lost , which will then increase or decrease respectively . [ 87 ] The game ' s servers , known as the \" Game Coordinator \" , [ 88 ] [ 89 ] attempts to balance both teams based on each player ' s MMR , with each team having roughly a 50 % chance to win in any given game . [ 87 ] Ranked game modes with a separately tracked MMR are also available , which primarily differ from unranked games by making MMR publicly visible , as well as requiring the registration of a phone number to their accounts , which help foster a more competitive environment . [ 87 ] [ 90 ] To ensure that each player ' s ranking is up to date and accurate , MMR is recalibrated around every six months . [ 91 ] [ 92 ] Players with the highest possible medal rank are listed by Valve on an online leaderboard , separated into North American , European , Southeast Asian , and Chinese regions . [ 93 ] The game includes a report system , which allows players to punish player behavior that intentionally provides a negative experience . [ 94 ] Players who get reported enough or leave several games before they conclude , a practice known as \" abandoning \" , are placed into low priority matchmaking , which remains on a player ' s account until they win a specific number of games , and only groups them with other players who have the same punishment . [ 95 ] [ 96 ] Other features include an improved replay system from Defense of the Ancients , in which a completed game can be downloaded in - client and viewed by anyone at a later time , and the \" hero builds \" feature , which provide integrated guides created by the community that highlight to the player on how to play their hero .",
+    "token_count": 388,
+    "source_file": "Dota Wiki.txt",
+    "chunk_index": 11,
+    "language": "en",
+    "processed_at": "2025-11-12T10:51:22.494031",
+    "index_id": 16
+  },
+  {
+    "id": "Dota Wiki_chunk_12",
+    "text": "[ 97 ] Dota 2 Reborn In June 2015 , Valve announced that Dota 2 would be ported over to their Source 2 game engine in an update called Dota 2 Reborn . [ 98 ] Reborn was released as an opt - in beta update that same month , [ 99 ] and replaced the original client in September 2015 , making it the first game to use the engine . [ 100 ] Reborn included a new user interface framework design , ability for custom game modes created by the community , and the full replacement of the original Source engine with Source 2 . [ 101 ] Largely attributed to technical difficulties players experienced with the update , the global player base experienced a sharp drop of approximately sixteen percent the month following its release . [ 102 ] However , after various updates and patches , over a million concurrent players were playing again by the beginning of 2016 , with that number being the largest in nearly a year . [ 103 ] The move to Source 2 allowed the use of the Vulkan graphics API , released as an optional feature in May 2016 , making Dota 2 one of the first games to use it . [ 104 ] Release Gamescom 2011 in Cologne , where the game was first made playable to the public Dota 2 was made available to the public at Gamescom in 2011 , coinciding with the inaugural International championship , the game ' s premier esport tournament event . At the event , Valve began sending out closed beta invitations to DotA players and attendees . [ 105 ] Although the game was originally meant to publicly release in 2012 , Valve later scrapped that plan as it would have kept the game in its closed beta state for over a year . Owing to that , Valve lifted the non - disclosure agreement and transitioned the game into open beta in September 2011 , allowing players to discuss the game and their experiences publicly . [ 106 ] [ 107 ] Following nearly two years of beta testing , Dota 2 was released on Steam for Windows on July 9 , 2013 , and for OS X and Linux on July 18 , 2013 .",
+    "token_count": 388,
+    "source_file": "Dota Wiki.txt",
+    "chunk_index": 12,
+    "language": "en",
+    "processed_at": "2025-11-12T10:51:22.494031",
+    "index_id": 17
+  },
+  {
+    "id": "Dota Wiki_chunk_13",
+    "text": "[ 108 ] [ 109 ] [ 110 ] The game did not launch with every hero from Defense of the Ancients . Instead , the missing ones were added in various post - release updates , with the final one , as well as the first Dota 2 original hero , being added in 2016 . [ 111 ] [ 112 ] Two months following the game ' s release , Newell claimed that updates to Dota 2 generated up to three percent of global internet traffic . [ 113 ] In December 2013 , the final restrictions against unlimited global access to Dota 2 were lifted after the game ' s infrastructure and servers were substantially bolstered . [ 114 ] In order to abide by the standards set by the economic legislation of specific countries , Valve opted to contract with nationally based developers for publishing . In October 2012 , Chinese game publisher Perfect World announced they had received distribution rights for the game in the country . [ 115 ] The Chinese client has a region - specific \" Low Violence \" mode , which removes most depictions of blood , gore , and skulls in order for the game to follow censorship policies of the country . [ 116 ] [ 117 ] In November 2012 , a similar publishing deal was made with the South Korea - based game company Nexon to distribute and market the game in the country , as well as in Japan . [ 118 ] Three years later , Nexon announced they would no longer be operating servers for Dota 2 , with Valve taking over direct distribution and marketing of the game in those regions . [ 119 ] In December 2016 , Dota 2 was updated to gameplay version 7 . 00 , also known as \" The New Journey \" update . [ 120 ] [ 121 ] [ 122 ] Prior to the update , the Dota series had been in version 6 . xx for over a decade , marking the first major revision since IceFrog originally took over development of the original mod in the mid - 2000s .",
+    "token_count": 367,
+    "source_file": "Dota Wiki.txt",
+    "chunk_index": 13,
+    "language": "en",
+    "processed_at": "2025-11-12T10:51:22.494031",
+    "index_id": 18
+  },
+  {
+    "id": "Dota Wiki_chunk_14",
+    "text": "[ 122 ] The New Journey update added and changed numerous features and mechanics of the game , including adding the first original hero not ported over from Defense of the Ancients , a reworked map , a redesigned HUD , a pre - game phase that allows for players to discuss their team strategy , and a \" Talent Tree \" ability augmentation system . [ 121 ] [ 122 ] In April 2017 , Valve announced changes to the game ' s ranked matchmaking system , with the main one requiring the registration of a unique phone number to a player ' s account in order to play them , an anti - griefing and smurfing practice they had previously implemented in their first - person shooter game Counter - Strike : Global Offensive . [ 90 ] [ 123 ] Further changes to the game ' s matchmaking were brought in an update in November 2017 , where the old numerical MMR system was replaced by a seasonal one based on eight ranked tiers that are recalibrated around every six months , a move that brought the game ' s ranked system closer to ones used in other competitive games such as Global Offensive , StarCraft , and League of Legends . [ 124 ] [ 125 ] [ 86 ] For most of 2018 , Valve decided to handle gameplay balance updates for the game in a different way . Instead of releasing larger updates irregularly throughout the year , smaller ones would be released on a set schedule of every two weeks . [ 126 ] [ 127 ] Around the same time , the game introduced the \" Dota Plus \" monthly subscription system that replaced the seasonal battle passes that were released to coincide with a Major tournament . In addition to offering everything battle passes previously did , Dota Plus added features such as a hero - specific achievement system that reward players who complete them with exclusive cosmetics , as well as providing hero and game analytics and statistics gathered from thousands of recent games . [ 128 ] Esports The largest Dota 2 tournaments often have prize pools totaling millions of dollars . Shown here is The International 2018 , a $ 25 million tournament hosted at the Rogers Arena in Vancouver .",
+    "token_count": 393,
+    "source_file": "Dota Wiki.txt",
+    "chunk_index": 14,
+    "language": "en",
+    "processed_at": "2025-11-12T10:51:22.494031",
+    "index_id": 19
+  },
+  {
+    "id": "Dota Wiki_chunk_15",
+    "text": "To ensure that enough Defense of the Ancients players would take up Dota 2 and to promote the game to a new audience , Valve invited sixteen accomplished Defense of the Ancients esports teams to compete at a Dota 2 - specific tournament at Gamescom in August 2011 , which later became an annually held event known as The International . [ 129 ] From The International 2013 onward , its prize pool began to be crowdfunded through a type of in - game battle pass called the \" Compendium \" , which raises money from players buying them and connected lootboxes to get exclusive in - game cosmetics and other bonuses offered through them . [ 130 ] [ 131 ] 25 % of all the revenue made from Compendiums go directly to the prize pool , with sales from the 2013 battle pass raising over US $ 2 . 8 million , which made it the largest prize pool in esports history at the time . [ 132 ] [ 133 ] From 2015 until 2021 , each iteration of the International surpassed the previous one ' s prize pool , with The International 2021 peaking at $ 40 million . [ 134 ] [ 135 ] During its beta phase in the early 2010s several other esport events would begin hosting Dota 2 events , including the Electronic Sports World Cup , [ 136 ] DreamHack , [ 137 ] World Cyber Games , [ 138 ] and ESL . [ 139 ] By the end of 2011 , Dota 2 was already one of the highest - paying esport games , second to StarCraft II . [ 140 ] At E3 2013 , South Korean company Nexon announced the investment of ₩ 2 billion ( approximately US $ 1 . 7 million ) into local leagues in the country , which coincided with their distribution partnership with Valve for the game . [ 141 ] In February 2015 , Valve sponsored and held the Dota 2 Asia Championships in Shanghai , with a prize pool of over $ 3 million raised through compendium sales .",
+    "token_count": 359,
+    "source_file": "Dota Wiki.txt",
+    "chunk_index": 15,
+    "language": "en",
+    "processed_at": "2025-11-12T10:51:22.494031",
+    "index_id": 20
+  },
+  {
+    "id": "Dota Wiki_chunk_16",
+    "text": "[ 142 ] [ 143 ] In total , professional Dota 2 tournaments had earned teams and players over $ 100 million by June 2017 , with over half of that being awarded at Internationals , making it the highest earning esport game by a margin of nearly $ 60 million at the time . [ 144 ] As with traditional sporting events , most major Dota 2 events feature pre - and post - game discussion by a panel of analysts ( left ) , with in - match casting being done by play - by - play and color commentators ( right ) . From late 2015 until early 2017 , Valve sponsored a series of smaller - scale , seasonally held tournaments known as the Dota Major Championships , which all had fixed prize pools of US $ 3 million . [ 145 ] [ 146 ] Their format was based on the tournament series of the same name that Valve also sponsored for their first - person shooter game Counter - Strike : Global Offensive . Including The International 2016 and 2017 , which were considered to be the cumulative Major of their respective seasons , [ 145 ] [ 147 ] the series had five other events , which were the Frankfurt Major , [ 148 ] Shanghai Major , [ 149 ] Manila Major , [ 150 ] Boston Major , [ 151 ] and Kiev Major . [ 152 ] Following the International 2017 , the Majors were replaced with the Dota Pro Circuit ( DPC ) format due to criticism by teams and fans for Valve ' s non - transparent and unpredictable nature for handing out International invitations . [ 153 ] [ 154 ] [ 155 ] In the DPC , teams were awarded qualification points for their performance in sponsored tournaments , with the top twelve earning direct invites to that season ' s International . [ 156 ] To avoid conflicting dates with other tournaments , Valve directly manages the scheduling of them . [ 155 ] After the 2023 season , the DPC was discontinued . [ 157 ] Since The International 2024 , a portion of the participating teams receive direct invitations , while the remaining slots are filled through regional qualifiers .",
+    "token_count": 387,
+    "source_file": "Dota Wiki.txt",
+    "chunk_index": 16,
+    "language": "en",
+    "processed_at": "2025-11-12T10:51:22.495031",
+    "index_id": 21
+  },
+  {
+    "id": "Dota Wiki_chunk_17",
+    "text": "[ 158 ] [ 159 ] The primary medium for professional Dota 2 coverage is the live streaming platform Twitch . For most major events , tournament coverage is done by a selection of dedicated esports organizations and personnel who provide on - site commentary , analysis , and player interviews , similar to traditional sporting events . [ 160 ] [ 161 ] Coverage of Dota 2 tournaments have been simulcast on television networks , such as ESPN in the United States , [ 162 ] [ 163 ] BBC Three in the United Kingdom , [ 164 ] Sport1 in Germany , [ 165 ] TV 2 Zulu in Denmark , [ 166 ] Xinwen Lianbo in China , [ 167 ] Astro in Malaysia , [ 168 ] and TV5 in the Philippines . [ 169 ] Reception Reception Aggregate score Aggregator Score Metacritic 90 / 100 [ 170 ] Review scores Publication Score Destructoid 9 . 5 / 10 [ 171 ] Edge 9 / 10 [ 172 ] Eurogamer 9 / 10 [ 173 ] Game Informer 9 / 10 [ 17 ] GameSpot 9 / 10 [ 174 ] IGN 9 . 4 / 10 [ 175 ] PC Gamer ( US ) 92 / 100 [ 177 ] Polygon 8 . 5 / 10 [ 176 ] USgamer 5 / 5 [ 178 ] VideoGamer . com 9 / 10 [ 179 ] Dota 2 received \" universal acclaim \" according to review aggregator website Metacritic , [ 170 ] and has been cited as one of the greatest video games of all time . [ 180 ] [ 181 ] [ 182 ] [ 183 ] In a preview of the game in 2012 , Rich McCormick of PC Gamer thought that Dota 2 was \" an unbelievably deep and complex game that offers the purest sequel to the original Defense of the Ancients . Rewarding like few others , but tough .",
+    "token_count": 331,
+    "source_file": "Dota Wiki.txt",
+    "chunk_index": 17,
+    "language": "en",
+    "processed_at": "2025-11-12T10:51:22.495031",
+    "index_id": 22
+  },
+  {
+    "id": "Dota Wiki_chunk_18",
+    "text": "\" [ 184 ] Adam Biessener , the editor who authored the announcement article for Dota 2 for Game Informer in 2010 , praised Valve for maintaining the same mechanics and game balance that made Defense of the Ancients successful nearly a decade prior [ 17 ] and Quintin Smith of Eurogamer described Dota 2 as the \" supreme form of the MOBA which everyone else working in the genre is trying to capture like lightning in a bottle \" . [ 173 ] The most frequently praised aspects of the game were its depth , delivery , and overall balance . Chris Thursten of PC Gamer described the gameplay as being \" deep and rewarding \" . [ 177 ] Martin Gaston of GameSpot complimented Valve for the artistic design and delivery of Dota 2 , citing the execution of the user interface design , voice acting , and characterization as exceeding those of the game ' s competitors . [ 174 ] Phill Cameron of IGN and James Kozanitis of Hardcore Gamer both praised Dota 2 for its free - to - play business model including only cosmetic items in contrast to other games such as League of Legends , which charges to unlock better \" heroes \" to play as , with Kozanitis stating that Dota 2 was \" the only game to do free - to - play right \" . [ 175 ] [ 185 ] Nick Kolan of IGN agreed , comparing the game ' s business model to Valve ' s Team Fortress 2 , which uses a nearly identical system . [ 186 ] Post - release additions to the game were praised , such as the addition of virtual reality ( VR ) support in 2016 . Ben Kuchera of Polygon thought that spectating games in VR was \" amazing \" , comparing it to being able to watch an American football game on television with the ability to jump onto the field at any time to see the quarterback ' s point of view . [ 187 ] Chris Thursten of PC Gamer agreed , calling the experience \" incredible \" and unlike any other esports spectating system that existed prior to it .",
+    "token_count": 374,
+    "source_file": "Dota Wiki.txt",
+    "chunk_index": 18,
+    "language": "en",
+    "processed_at": "2025-11-12T10:51:22.495031",
+    "index_id": 23
+  },
+  {
+    "id": "Dota Wiki_chunk_19",
+    "text": "[ 188 ] Sam Machkovech of Ars Technica also praised the addition , believing that the functionality could \" attract serious attention from gamers and non - gamers alike \" . [ 189 ] While the majority of reviewers gave Dota 2 highly positive reviews , a common criticism was that the game maintains a steep learning curve that requires exceptional commitment to overcome . While providing a moderately positive review that praised Valve ' s product stability , Fredrik Åslund from the Swedish division of Gamereactor described his first match of Dota 2 as one of the most humiliating and inhospitable experiences of his gaming career , citing the learning curve and players ' attitudes as unwelcoming . [ 190 ] Benjamin Danneberg of GameStar alluded to the learning curve as a \" learning cliff \" , calling the newcomer ' s experience painful , with the tutorial feature new to the Dota franchise only being partially successful . [ 191 ] In a review for Metro , Dota 2 was criticized for not compensating for the flaws with the learning curve from Defense of the Ancients , as well as the often hostile community . [ 192 ] Peter Bright of Ars Technica also directed criticism at the ability for third - party websites to allow skin gambling and betting on match results , similar to controversies that also existed with Valve ' s Counter - Strike : Global Offensive . [ 193 ] Using Dota 2 as an example , Bright thought that Valve had built gambling elements directly into their games , and had issues with the unregulated practice , which he said was often used by underage players and regions where gambling is illegal . [ 193 ] Australian senator Nick Xenophon had similar sentiment , stating that he wanted to introduce legislation in his country to minimize underage access to gambling within video games , including Dota 2 . [ 194 ] In response to the controversy , Valve and Dota 2 project manager Erik Johnson stated that they would be taking action against the third - party sites as the practice was not allowed by their user agreements or API . [ 195 ] Comparisons of Dota 2 to other MOBA games are commonplace , with the mechanics and business model compared to League of Legends and Heroes of the Storm .",
+    "token_count": 399,
+    "source_file": "Dota Wiki.txt",
+    "chunk_index": 19,
+    "language": "en",
+    "processed_at": "2025-11-12T10:51:22.495031",
+    "index_id": 24
+  },
+  {
+    "id": "Dota Wiki_chunk_20",
+    "text": "[ 186 ] [ 196 ] [ 197 ] [ 198 ] Contrasting it with League of Legends , T . J . Hafer of PC Gamer called Dota 2 the \" superior experience \" , stating that he thought the game was \" all about counterplay \" , with most of the heroes being designed to directly counter another . [ 199 ] Hafer also preferred the way the game handled its hero selection pool , with all of them being unlocked right from the start , unlike in League of Legends . [ 199 ] Comparing Dota 2 to Heroes of the Storm , Jason Parker of CNET said that while Heroes of the Storm was easier to get into , the complexities and depth of Dota 2 would be appreciated more by those who put in the time to master it . [ 200 ] Further comparing it to Heroes of Newerth , players from the professional Dota 2 team OG said that most Heroes of Newerth players were able to transition over easily to the game , due to the strong similarities that both games share . [ 201 ] Similar to other highly competitive online games , Dota 2 is often considered to have a hostile and \" toxic \" community . [ 202 ] [ 203 ] [ 204 ] In 2019 , a report by the Anti - Defamation League found that up to 79 % of the game ' s playerbase had reported being harassed in some way while playing it , which topped their list . [ 205 ] Awards Following its reveal in 2011 , Dota 2 won IGN ' s People ' s Choice Award . [ 206 ] In December 2012 , PC Gamer listed Dota 2 as a nominee for their Game of the Year award , as well as the best esports game of the year . [ 207 ] In 2013 , Dota 2 won the esport game of the year award from PC Gamer [ 208 ] and onGamers . [ 209 ] GameTrailers also awarded the game the award for Best PC Game of 2013 , [ 210 ] with IGN also awarding it the Best PC Strategy & Tactics Game , Best PC Multiplayer Game , and People ' s Choice Award .",
+    "token_count": 391,
+    "source_file": "Dota Wiki.txt",
+    "chunk_index": 20,
+    "language": "en",
+    "processed_at": "2025-11-12T10:51:22.495031",
+    "index_id": 25
+  },
+  {
+    "id": "Dota Wiki_chunk_21",
+    "text": "[ 211 ] [ 212 ] Similarly , Game Informer recognized Dota 2 for the categories of Best PC Exclusive , Best Competitive Multiplayer and Best Strategy of 2013 . [ 213 ] The same year , Dota 2 was nominated for several awards by Destructoid . While the staff selected StarCraft II : Heart of the Swarm , Dota 2 received the majority of the votes distributed between the nine nominees . [ 214 ] During the 17th Annual D . I . C . E . Awards , the Academy of Interactive Arts & Sciences nominated Dota 2 for \" Role - Playing / Massively Multiplayer Game of the Year \" . [ 215 ] Dota 2 was later nominated for the best multiplayer game at the 10th British Academy Games Awards in 2014 , but lost to Grand Theft Auto V , [ 216 ] and was nominated for Esports Game of the Year at The Game Awards at its events from 2015 to 2019 , [ 217 ] [ 218 ] [ 219 ] [ 220 ] while winning the award for best MOBA at the 2015 Global Game Awards . [ 221 ] The game was also nominated for the community created \" Love / Hate Relationship \" award at the inaugural Steam Awards in 2016 . [ 222 ] In the late 2010s , the game was nominated for Choice Video Game at the 2017 Teen Choice Awards , [ 223 ] for Esports Game of the Year at the Golden Joystick Awards , [ 224 ] [ 225 ] [ 226 ] [ 227 ] and as IGN ' s best spectator game . [ 228 ] Legacy A fan cosplaying as Juggernaut , one of the game ' s 126 playable characters A month prior to its launch , Dota 2 was already the most played game on Steam with a concurrent player count of nearly 330 , 000 , which outweighed the number of players for the rest of platform ' s top ten most - played games combined .",
+    "token_count": 349,
+    "source_file": "Dota Wiki.txt",
+    "chunk_index": 21,
+    "language": "en",
+    "processed_at": "2025-11-12T10:51:22.495031",
+    "index_id": 26
+  },
+  {
+    "id": "Dota Wiki_chunk_22",
+    "text": "[ 229 ] [ 230 ] [ 231 ] It remained as the most played game by concurrent players on the platform for four years , [ 232 ] [ 233 ] having a peak of over one million and never dropping below first place for any extended period of time until being surpassed by PlayerUnknown ' s Battlegrounds in 2017 . [ 234 ] [ 235 ] [ 236 ] Viewership and followings of professional Dota 2 leagues and tournaments are popular , with peak viewership numbers of the International in the millions . [ 237 ] [ 238 ] [ 239 ] Some Asian schools and universities , such as the Asia Pacific University of Technology & Innovation in Malaysia , have held courses teaching students the fundamentals and core skills to use for the game . [ 240 ] [ 241 ] Dota 2 has been a part of multi - sport events in Asia , such as the Asian Indoor and Martial Arts Games and Southeast Asian Games . [ 242 ] [ 243 ] The Aegis of Champions , awarded to International winners The popularity of Dota 2 led Valve to produce apparel , accessories , figurines , and several other products featuring the heroes and other elements from the game . In addition , Valve secured licensing contracts with third - party producers ; the first of these deals concerned a Dota 2 themed SteelSeries mousepad , which was announced alongside the game at Gamescom 2011 . [ 244 ] In September 2012 , Wētā Workshop , the prop studio that creates the \" Aegis of Champions \" trophy for winners of The International , [ 245 ] announced a product line that would include statues , weapons , and armor based on characters and items from the game . [ 246 ] In February 2013 , the National Entertainment Collectibles Association announced a new toy line featuring hero - themed action figures at the American International Toy Fair . [ 247 ] At Gamescom 2015 , an HTC Vive virtual reality ( VR ) tech demo based around the shopkeeper of the game ' s item shop was showcased , allowing participants to interact with various items and objects from the game in VR .",
+    "token_count": 382,
+    "source_file": "Dota Wiki.txt",
+    "chunk_index": 22,
+    "language": "en",
+    "processed_at": "2025-11-12T10:51:22.495031",
+    "index_id": 27
+  },
+  {
+    "id": "Dota Wiki_chunk_23",
+    "text": "[ 248 ] The demo , known as Secret Shop , was later included the following year on The Lab , Valve ' s virtual reality compilation game . [ 249 ] After the conclusion of The International 2015 , Valve awarded the Collector ' s Aegis of Champions , a brass replica of the Aegis of Champions award trophy , to those with compendiums of 1 , 000 levels or more . [ 250 ] Valve awarded the Collector ' s Aegis again the following year for The International 2016 , as well as selling a limited edition Dota 2 themed HTC Vive virtual reality headset during the event . [ 251 ] [ 252 ] In July 2017 , an 18 - track music soundtrack was released by Ipecac Recordings , including a version on vinyl . [ 253 ] A digital collectible card game based on the universe of Dota 2 and designed by Magic : The Gathering creator Richard Garfield and Valve , Artifact , was released in November 2018 . [ 254 ] [ 255 ] [ 256 ] Promotional tie - ins to other video games and media have been added to Dota 2 , including custom Half - Life 2 , [ 257 ] Bastion , [ 257 ] Portal , [ 258 ] The Stanley Parable , [ 259 ] Rick and Morty , [ 260 ] Fallout 4 , [ 261 ] Deus Ex : Mankind Divided , [ 262 ] and Darkest Dungeon [ 263 ] announcer packs , which replace the game ' s default announcer with ones based on those franchises . In addition to announcer packs , musical artists have written music packs that can replace the game ' s default soundtrack , such as electronic music artist deadmau5 and Singaporean songwriter JJ Lin . [ 264 ] [ 265 ] [ 266 ] To coincide with the Windows release of Square Enix ' s Final Fantasy Type - 0 HD in August 2015 , a bundle containing a custom loading screen , a Moogle ward , and a Chocobo courier were added the same month . [ 267 ] In April 2016 , Valve announced a cross - promotional workshop contest for Sega ' s Total War : Warhammer , with the winning entries being included in the game later that year .",
+    "token_count": 397,
+    "source_file": "Dota Wiki.txt",
+    "chunk_index": 23,
+    "language": "en",
+    "processed_at": "2025-11-12T10:51:22.495031",
+    "index_id": 28
+  },
+  {
+    "id": "Dota Wiki_chunk_24",
+    "text": "[ 268 ] In 2017 , a cosmetic set based on the Companion Cube from the Portal series was released as part of that year ' s International battle pass for the hero known as \" Io \" . [ 269 ] In December of the same year , the character Amaterasu from Capcom ' s Ōkami was included as a courier for those who had pre - ordered the PC release of the game . [ 270 ] Physical props , based on items from the game , being sold as merchandise at The International 2012 A documentary on the game and its professional scene was produced by Valve and released in March 2014 . Known as Free to Play , the film follows three players during their time at the first International in 2011 . [ 271 ] American basketball player Jeremy Lin , who was a media sensation at the time , had a guest appearance in the film and called the game \" a way of life \" . [ 272 ] Lin later compared the game and the esports scene in general to basketball and other traditional sporting events , saying that there was not much of a difference between the two , [ 273 ] while comparing various NBA all - stars , such as Stephen Curry , Kobe Bryant , and LeBron James , to different heroes in the game . [ 274 ] Starting in 2016 , Valve began producing an episodic documentary series titled True Sight , a spiritual successor to Free to Play . [ 275 ] The first three episodes followed the professional teams Evil Geniuses and Fnatic during the Boston Major tournament in late 2016 . [ 275 ] Several more episodes have since been produced . [ 276 ] [ 277 ] Valve have also endorsed cosplay competitions featuring the game ' s heroes , which take place during downtime at some Dota 2 tournaments and feature prize pools of their own . [ 278 ] [ 279 ] [ 280 ] Creation of Dota 2 - themed animations and CGI videos , mostly created by the community with Source Filmmaker , also take place . [ 281 ] Similar to the cosplay competitions , Valve holds short film contests every year at The International , with winners of the competition also being awarded prize money .",
+    "token_count": 400,
+    "source_file": "Dota Wiki.txt",
+    "chunk_index": 24,
+    "language": "en",
+    "processed_at": "2025-11-12T10:51:22.495031",
+    "index_id": 29
+  },
+  {
+    "id": "Dota Wiki_chunk_25",
+    "text": "[ 282 ] [ 283 ] In addition , Valve have created free webcomics featuring some of the heroes , further detailing their background lore . [ 284 ] [ 285 ] [ 286 ] A physical collection of the comics was released as Dota 2 : The Comic Collection by Dark Horse Comics in August 2017 . [ 287 ] An anime streaming television series based on the game , Dota : Dragon ' s Blood , premiered on Netflix in March 2021 . [ 288 ] The series was produced by Studio Mir and Kaiju Boulevard . Dota 2 has been used in machine learning experiments , with the American artificial intelligence research company OpenAI curating a system , known as the OpenAI Five , that allows bots to learn how to play the game at a high skill level entirely through trial - and - error algorithms . The bots learn over time by playing against itself hundreds a times a day for months in a system that OpenAI calls \" reinforcement learning \" , in which they are rewarded for actions such as killing an enemy and destroying towers . [ 289 ] [ 290 ] [ 291 ] [ 292 ] Demonstrations of the bots playing against professional players have occurred at some events , such as Dendi , a professional Ukrainian player of the game , losing to one of them in a live 1v1 matchup at The International 2017 . [ 293 ] [ 294 ] A year later , the ability of the bots had increased to work together as a full team of five , known as the OpenAI Five , who then played and won against a team of semi - professional players in a demonstration game in August 2018 . [ 295 ] Shortly after , OpenAI Five then played two live games against more skilled players at The International 2018 . [ 296 ] [ 297 ] Although the bots lost both games , OpenAI considered it successful as playing the bots against some of the best players in Dota 2 allowed them to analyze and adjust their algorithms for future games . [ 298 ] In 2019 , OpenAI Five was able to defeat the reigning International champion OG . [ 299 ]",
+    "token_count": 386,
+    "source_file": "Dota Wiki.txt",
+    "chunk_index": 25,
+    "language": "en",
+    "processed_at": "2025-11-12T10:51:22.495031",
+    "index_id": 30
+  },
+  {
+    "id": "The International (esports) - Wikipedia_chunk_0",
+    "text": "The International Game Dota 2 Founded 2011 Administrator Valve PGL No . of teams 16 teams ( 2011 – 2016 , 2024 – present ) 18 teams ( 2017 – 2021 ) 20 teams ( 2022 – 2023 ) Most recent championTeam Falcons ( 2025 ) Most titles OG , Team Spirit , Team Liquid ( 2 titles each ) Tournament formatGroup stage Single round - robin Main event Double elimination Official website dota2 . com / esports ( http s : / / www . dota2 . com / espor ts ) The first International was held at Gamescom in 2011 . The International ( esports ) The International ( TI ) is an annual esports world championship for the five - on - five video game Dota 2 . Produced by the game ' s developer Valve , it serves as the culminating event of the professional Dota 2 season and currently features 16 teams . The International was first held in Germany at the 2011 Gamescom to promote the game ' s release . It was then held in Seattle , where Valve is headquartered , until it began to be hosted internationally again starting with The International 2018 in Vancouver . The tournament ' s prize pool has been crowdfunded via transactions within the game since 2013 , with a quarter of all revenue from it directly going towards it . Internationals have the largest single - tournament prize pool of any esport event , with its largest reaching US $ 40 million in 2021 . The most recent champion is Team Falcons , who won The International 2025 , with OG , Team Spirit , and Team Liquid each having won two Internationals since its inception . Valve announced the first edition of The International on August 1 , 2011 . 16 teams were invited to compete in the tourname nt , which would also serve as the first public viewing of Dota 2 . [ 1 ] The tournament was funded by Valve , including the US $ 1 million grand prize , with Nvidia supplying the hardware . [ 2 ] [ 3 ] It took place at Gamescom in Cologne from August 17 – 21 the same year .",
+    "token_count": 377,
+    "source_file": "The International (esports) - Wikipedia.pdf",
+    "chunk_index": 0,
+    "language": "en",
+    "processed_at": "2025-11-12T10:51:23.735707",
+    "index_id": 31
+  },
+  {
+    "id": "The International (esports) - Wikipedia_chunk_1",
+    "text": "[ 4 ] The tournament started with a group stage in which the winners of each of the four groups were entered into a winner ' s bracket , and the other teams entered the loser ' s bracket . The rest of the tournament was then played as a double - elimination tournament . [ 5 ] The final of this inaugural tournament wasHistory Early years11 / 11 / 25 , 11 : 47 AM The International ( esports ) - Wikipedia https : / / en . wikipedia . org / wiki / The_International_ ( esports ) 1 / 12 The International 2014 at the KeyArena in Seattlebetween Ukrainian - based Natus Vincere and Chinese - based EHOME , with Natus Vincere winning the series 3 – 1 . [ 6 ] EHOME won US $ 250 , 000 , with the rest of the 14 team s splitting the remaining $ 350 , 000 . [ 7 ] The International as a recurring annual event was confirmed in May 2012 . [ 8 ] [ 9 ] The International 2012 was held at the 2 , 500 seat Benaroya Hall in Seattle from August 31 to September 2 , with teams situated in glass booths on the main stage . [ 10 ] The total prize pool remained at $ 1 . 6 million , with $ 1 million for the winning team . [ 11 ] [ 12 ] The previous winners , Natus Vincer e , were beaten 3 – 1 by Chinese team Invictus Gaming in the grand finals . [ 13 ] In November 2012 , Valve released a free documentary on the event that featured interviews with the teams , and following them from the preliminary stages through to the finale . [ 14 ] The International 2013 was hosted again at the Benaroya Hall in Seattle from August 7 – 11 . Sixteen teams participated , thirteen of which received direct invitations , and the final three being decided in two qualifying tournaments and a match at the start of the tournament . [ 15 ] In May 2013 , it was announced that an in - game battle pass , known as the Compendium , would be available for purchase that allowed for the tournament ' s prize pool to be crowdfunded .",
+    "token_count": 393,
+    "source_file": "The International (esports) - Wikipedia.pdf",
+    "chunk_index": 1,
+    "language": "en",
+    "processed_at": "2025-11-12T10:51:23.735707",
+    "index_id": 32
+  },
+  {
+    "id": "The International (esports) - Wikipedia_chunk_2",
+    "text": "A quarter of the total revenue from the Compendium was added to the base $ 1 . 6 million prize pool . [ 16 ] The prize pool eventually reached over $ 2 . 8 million , making it the largest prize pool in esports history at the time . [ 17 ] KCPQ news anchor Kaci Aitchison acted as a host at the event , providing behind - the - scenes commentary and player interviews . [ 18 ] The International 2013 was viewed by over a million concurre nt viewers at its peak , via live streaming websites such as Twitch . [ 19 ] The International 2014 took place from July 18 – 21 at the KeyArena in Seattle . [ 20 ] For the event , eleven teams would receive direct invites , with an additional four spots determined by regional qualifiers taking place between May 12 – 25 . The sixteenth spot would be determined by a wild card qualifier between the runners - up from the regional competitions . [ 21 ] The tickets for the event were sold out within an hour of going on sale that April . [ 22 ] The tournament ' s crowdfunded prize pool again broke esport records for being the largest in history , with it totalling over $ 10 . 9 million . [ 23 ] As a result , eight Dota 2 players became the highest earning players in esports , surpassing the top earning player at the time , Lee \" Jaedong \" Jae - dong of StarCraft . [ 24 ] The event was also broadcast on ESPN networks for the first time . [ 25 ] In April 2015 , Valve announced the introduction of the Dota Major Cham pionships , a series of four annual tournaments , one for each season . The Fall , Winter and Spring Majors were sponsored by Valve but organized by third - party hosts at various international locations , while the Summer event was the International . [ 26 ] [ 27 ] This format was first implemented for the 2015 – 2016 season , featuring the Frankfurt Major , the Shanghai Major and the Manila Major , culminating in The International 2016 .",
+    "token_count": 379,
+    "source_file": "The International (esports) - Wikipedia.pdf",
+    "chunk_index": 2,
+    "language": "en",
+    "processed_at": "2025-11-12T10:51:23.735707",
+    "index_id": 33
+  },
+  {
+    "id": "The International (esports) - Wikipedia_chunk_3",
+    "text": "[ 28 ] In the subsequent 2016 – 2017 season , the number of Major tournamentsIntroduction of crowdfunding11 / 11 / 25 , 11 : 47 AM The International ( esports ) - Wikipedia https : / / en . wikipedia . org / wiki / The_International_ ( esports ) 2 / 12 The International 2015 grand final in the KeyArena in Seattlewas reduced to three : the Boston Major , the Kiev Major and The International 2017 . [ 29 ] Starting with The International 2017 , the total number of participating teams was increased from 16 to 18 . [ 30 ] For the 2017 – 2018 season , Valve introduced the Dota Pro Circuit , a series of tournaments awarding qualifying points . The eight teams with the highest point totals at the end of the season received direct invitations to The International 2018 , while another ten teams qualified via regional qualifier tournaments . [ 29 ] [ 31 ] [ 32 ] [ 33 ] The circuit was implemented to provide more \" clarity and transparency \" in the selection process for direct invites . [ 34 ] [ 35 ] Over the course of the 2017 – 2018 season , the Dota Pro Circuit comprised nine Majors ( excluding The International 2018 ) and 13 Minors . [ 36 ] The International 2020 was the first International to skip a year , as it was postponed due to the COVID - 19 pandemic . [ 37 ] Ahead of the event , originally scheduled to be held in Stockholm , Sweden , the Swedish Sports Federation voted to deny recognition of esports as a sporting event , making it difficult for Valve to help international players to secure travel visas for participating there . [ 38 ] Valve later rescheduled the event and rebranded it as The International 2021 , which was held at the Arena Națională in Bucharest , Romania , in October 2021 . [ 39 ] It set a record for the largest prize pool of any single esports event at $ 40 million . [ 40 ] The International 2022 increased to 20 teams and was held in Singapore in October 2022 , where it was won by Tundra Esports .",
+    "token_count": 381,
+    "source_file": "The International (esports) - Wikipedia.pdf",
+    "chunk_index": 3,
+    "language": "en",
+    "processed_at": "2025-11-12T10:51:23.735707",
+    "index_id": 34
+  },
+  {
+    "id": "The International (esports) - Wikipedia_chunk_4",
+    "text": "[ 41 ] It was the first International to not surpass the previous one ' s prize pool at $ 18 . 9 million , the lowest since The International 2015 . [ 42 ] The International 2023 was hosted at Climate Pledge Arena in Seattle , which was built at the same site as KeyArena , and ran from October 27 to 29 . [ 43 ] [ 44 ] In September , Valve had announced that the 2023 season would mark the end of the Dota Pro Circuit . [ 45 ] Dota Pro Circuit11 / 11 / 25 , 11 : 47 AM The International ( esports ) - Wikipedia https : / / en . wikipedia . org / wiki / The_International_ ( esports ) 3 / 12 List of Internationals Year Date Teams Prize pool Champion FinalsRunner - up Venue Ref . 2011August 17 – 2116 $ 1 , 600 , 000Natus Vincere3 – 1 EHOMEKoelnmesse ( Cologne ) [ 46 ] 2012August 31 – September 216 $ 1 , 600 , 000Invictus Gaming3 – 1Natus VincereBenaroya Hall ( Seattle ) [ 47 ] 2013August 7 – 11 16 $ 2 , 874 , 380 Alliance 3 – 2Natus Vincere [ 48 ] 2014July 18 – 21 16 $ 10 , 923 , 977Newbee 3 – 1Vici Gaming KeyArena ( Seattle ) [ 49 ] 2015August 3 – 6 16 $ 18 , 429 , 613Evil Geniuses3 – 1CDEC Gaming [ 50 ] 2016August 3 – 13 16 $ 20 , 770 , 460Wings Gaming3 – 1Digital Chaos [ 51 ] 2017August 7 – 12 18 $ 24 , 787 , 916Team Liquid3 – 0 Newbee [ 52 ] 2018August 20 – 2518 $ 25 , 532 , 177OG 3 – 2 PSG . LGDRogers Arena ( Vancouver ) [ 53 ] 2019August 20 – 2518 $ 34 , 330 , 068OG 3 – 1Team LiquidMercedes - Benz Arena ( Shanghai ) [ 54 ] 2020 Cancelled due to the COVID - 19 pandemicEricsson Globe ( Stockholm ) [ 55 ] 2021October 7 – 1718 $ 40 , 018 , 195Team Spirit 3 – 2 PSG .",
+    "token_count": 362,
+    "source_file": "The International (esports) - Wikipedia.pdf",
+    "chunk_index": 4,
+    "language": "en",
+    "processed_at": "2025-11-12T10:51:23.735707",
+    "index_id": 35
+  },
+  {
+    "id": "The International (esports) - Wikipedia_chunk_5",
+    "text": "LGDArena Națională ( Bucharest ) [ 56 ] 2022October 15 – 3020 $ 18 , 930 , 775Tundra Esports3 – 0Team SecretSuntec Singapore Singapore Indoor Stadium ( Singapore ) [ 41 ] 2023October 14 – 2920 $ 3 , 143 , 063 Team Spirit 3 – 0Gaimin GladiatorsSeattle Convention Center Climate Pledge Arena ( Seattle ) [ 57 ] 2024September 4 – 1516 $ 2 , 602 , 164Team Liquid3 – 0Gaimin GladiatorsRoyal Arena ( Copenhagen ) [ 58 ] 2025September 4 – 1416 $ 2 , 881 , 791Team Falcons3 – 2Xtreme GamingBarclays Arena ( Hamburg ) [ 59 ] [ 60 ] 2026August Shanghai , China [ 61 ] List of Internationals11 / 11 / 25 , 11 : 47 AM The International ( esports ) - Wikipedia https : / / en . wikipedia . org / wiki / The_International_ ( esports ) 4 / 12 The Aegis of Champions trophy As with traditional sporting events , The International feature pre - and post - game discussion by a panel of analysts ( left ) , with in - match casting being done by play - by - play and color commentators ( right ) . With the exception of the inaugu ral edition , in which all teams were invited , subsequent tournaments have featured a mixed qualification process . [ 1 ] A portion of the participating teams receive direct invitations , typically based on their performance throughout the year , while the remaining slots are filled through qualifier tournaments . [ 62 ] The main tournament typically begins with a group stage conducted in a round - robin format , followed by a main event structured as a double - elimination bracket . Since The International 2013 , the tournament ' s prize pool is primaril y crowdfunded through a battle pass called the Compendium , which raises money from players buying them to get exclusive in - game virtual goods and other bonuses . [ 63 ] [ 64 ] 25 % of all the revenue made from yearly Compendiums go directly to the prize pool . [ 65 ] [ 66 ] The contribution of players from the game community is the main source of prize pool for the International . [ 67 ] Until 2022 , each iteration of The International has surpassed the previous one ' s prize pool .",
+    "token_count": 400,
+    "source_file": "The International (esports) - Wikipedia.pdf",
+    "chunk_index": 5,
+    "language": "en",
+    "processed_at": "2025-11-12T10:51:23.735707",
+    "index_id": 36
+  },
+  {
+    "id": "The International (esports) - Wikipedia_chunk_6",
+    "text": "The International 2021 had the largest prize pool , awarding $ 40 million ( £ 29 million ) in total to participating teams . [ 68 ] [ 69 ] Prize pools began to decline by the mid - 2020s ; The International 2024 had the smallest since the introduction of crowdfunding at $ 2 , 602 , 164 . [ 70 ] The Aegis of Champions is a trophy that is awarded to the champions of an International . The reverse side of it is permanently engraved with the names of each player on the winning team . [ 71 ] [ 68 ] The Aegis is a shield inspired by Norse and Chinese designs , with it molded in bronze and silver by the prop studio , Weta Workshop . [ 71 ] Miniature replicas of it are also sometimes awarded to compendium owners for having a high enough level in it . [ 72 ] Format Qualification and tournament format Prize pool Trophy Media coverage11 / 11 / 25 , 11 : 47 AM The International ( esports ) - Wikipedia https : / / en . wikipedia . org / wiki / The_International_ ( esports ) 5 / 12 The primary medium for International coverage is throug h the video game live streaming platform Twitch , which is done by a selection of dedicated esports organizations and personnel who provide on - site commentary , analysis , match predictions , and player interviews surrounding the event in progress , similar to traditional sporting events . [ 19 ] [ 73 ] Multiple streams are provided in a variety of languages , mainly in English , Russian , and Chinese . The International also sometimes provides a \" newcomer stream \" that is dedicated to presenting games for viewers unfamiliar with the game . [ 74 ] In 2014 , Valve released a free documentary , Free to Play , which followed three players during their time at the first International in 2011 . [ 75 ] [ 76 ] In 2016 , Valve began producing an episodic - based documentary series titled True Sight , considered a spiritual successor to Free to Play . [ 77 ] Several more episodes of it have been filmed , showcasing the 2017 , 2018 , 2019 , and 2021 tournaments .",
+    "token_count": 392,
+    "source_file": "The International (esports) - Wikipedia.pdf",
+    "chunk_index": 6,
+    "language": "en",
+    "processed_at": "2025-11-12T10:51:23.735707",
+    "index_id": 37
+  },
+  {
+    "id": "The International (esports) - Wikipedia_chunk_7",
+    "text": "[ 78 ] [ 79 ] [ 80 ] [ 81 ] However , True Sight was discontinued after the 2022 tournament . 1 . Reilly , Jim ( August 1 , 201 1 ) . \" Valve Goes Big with Dota 2 Tournament \" ( https : / / web . archive . org / web / 20121 109072431 / http : / / www . ign . com / articles / 201 1 / 08 / 01 / valve - goes - big - with - dota - 2 - tourn ament ) . IGN . Archived from the original ( http : / / www . ign . com / articles / 201 1 / 08 / 01 / valve - goes - big - with - dota - 2 - tournament ) on November 9 , 2012 . 2 . Sullivan , Lucas ( August 1 , 201 1 ) . \" Valve to hold $ 1 , 000 , 000 Dota 2 tournament at Gamescom \" ( http : / / www . pcgamer . com / 201 1 / 08 / 01 / valve - to - hold - 1000000 - dota - 2 - tournament - at - gamesco m / ) . PC Gamer . Archived ( https : / / web . archive . org / web / 20140407084929 / http : / / www . pcgamer . c om / 201 1 / 08 / 01 / valve - to - hold - 1000000 - dota - 2 - tournament - at - gamescom / ) from the original on April 7 , 2014 . Retrieved February 22 , 2014 . 3 . Senior , Tom ( August 10 , 201 1 ) . \" Dota 2 Gamescom tournament to be streamed live on Dota2 . com \" ( http : / / www . pcgamer . com / 201 1 / 08 / 10 / dota - 2 - gamescom - tournament - to - be - stream ed - live - on - dota2 - com / ) . PC Gamer . Archived ( https : / / web . archive . org / web / 20131 123212306 / htt p : / / www . pcgamer .",
+    "token_count": 380,
+    "source_file": "The International (esports) - Wikipedia.pdf",
+    "chunk_index": 7,
+    "language": "en",
+    "processed_at": "2025-11-12T10:51:23.735707",
+    "index_id": 38
+  },
+  {
+    "id": "The International (esports) - Wikipedia_chunk_8",
+    "text": "com / 201 1 / 08 / 10 / dota - 2 - gamescom - tournament - to - be - streamed - live - on - dota2 - com / ) from the original on November 23 , 2013 . Retrieved February 22 , 2014 . 4 . Miozzi , CJ ( August 1 , 201 1 ) . \" Valve Announces DOT A 2 Gamescom Tournament \" ( http : / / www . g amefront . com / valve - announces - dota - 2 - gamescom - tournament / ) . Game Front . Archived ( http s : / / web . archive . org / web / 20131224105535 / http : / / www . gamefront . com / valve - announces - dota - 2 - gamescom - tournament / ) from the original on December 24 , 2013 . Retrieved February 22 , 2014 . 5 . Senior , Tom ( August 17 , 201 1 ) . \" Dota 2 : the tournament so far . . . \" ( http : / / www . pcgamer . com / 201 1 / 08 / 17 / dota - 2 - the - tournament - so - far / ) PC Gamer . Archived ( https : / / web . archive . org / web / 2014 0327021713 / http : / / www . pcgamer . com / 201 1 / 08 / 17 / dota - 2 - the - tournament - so - far / ) from the original on March 27 , 2014 . Retrieved February 22 , 2014 . 6 . Schiller , Jen ( August 23 , 201 1 ) . \" First Ever Dota 2 Championship Winner Revealed \" ( https : / / kot aku . com / 5833570 / first - ever - dota - 2 - championship - winner - revealed ) . Kotaku . Archived ( https : / / w eb . archive . org / web / 20140717223731 / http : / / kotaku . com / 5833570 / first - ever - dota - 2 - championshi p - winner - revealed ) from the original on July 17 , 2014 . Retrieved February 22 , 2014 . 7 . O ' Connor , Alice ( August 22 , 201 1 ) .",
+    "token_count": 397,
+    "source_file": "The International (esports) - Wikipedia.pdf",
+    "chunk_index": 8,
+    "language": "en",
+    "processed_at": "2025-11-12T10:51:23.735707",
+    "index_id": 39
+  },
+  {
+    "id": "The International (esports) - Wikipedia_chunk_9",
+    "text": "\" Dota 2 tournament $ 1 million finals won by Na ' vi \" ( http : / / w ww . shacknews . com / article / 69831 / dota - 2 - tournament - 1 - million - prize - won - by - navi ) . Shack News . Archived ( https : / / web . archive . org / web / 20140808200519 / http : / / www . shacknews . com / arti cle / 69831 / dota - 2 - tournament - 1 - million - prize - won - by - navi ) from the original on August 8 , 2014 . Retrieved February 22 , 2014 . Documentaries References11 / 11 / 25 , 11 : 47 AM The International ( esports ) - Wikipedia https : / / en . wikipedia . org / wiki / The_International_ ( esports ) 6 / 12 8 . Hafer , T . J . ( May 1 1 , 2012 ) . \" The International Dota 2 Championships 2012 to be held at P AX Prime this August \" ( http : / / www . pcgamer . com / 2012 / 05 / 1 1 / the - international - dota - 2 - championship s - 2012 - to - be - held - at - pax - prime - this - august / ) . PC Gamer . Archived ( https : / / web . archive . org / we b / 20140629124413 / http : / / www . pcgamer . com / 2012 / 05 / 1 1 / the - international - dota - 2 - championshi ps - 2012 - to - be - held - at - pax - prime - this - august / ) from the original on June 29 , 2014 . Retrieved March 3 , 2014 . 9 . Feak , Steve ; Mescon , Steve ( March 19 , 2009 ) . \" Postmortem : Defense of the Ancients \" ( https : / / web . archive . org / web / 20101207055840 / http : / / www . gamasutra . com / view / feature / 3966 / postmort em_defense_of_the_ancients . php ) . Gamasutra . pp . 1 – 5 . Archived from the original ( http : / / ww w . gamasutra .",
+    "token_count": 400,
+    "source_file": "The International (esports) - Wikipedia.pdf",
+    "chunk_index": 9,
+    "language": "en",
+    "processed_at": "2025-11-12T10:51:23.735707",
+    "index_id": 40
+  },
+  {
+    "id": "The International (esports) - Wikipedia_chunk_10",
+    "text": "com / view / feature / 3966 / postmortem_defense_of_the_ancients . php ) on December 7 , 2010 . Retrieved January 8 , 2014 . 10 . Schreier , Jason ( September 4 , 2012 ) . \" Dota Dispatch : W atching People Play V ideo Games For $ 1 . 6 Million \" ( https : / / kotaku . com / 5940125 / dota - dispatch - watching - people - play - video - games - for - 16 - million ) . Kotaku . Archived ( https : / / web . archive . org / web / 20131231092104 / http : / / kotaku . com / 5940125 / dota - dispatch - watching - people - play - video - games - for - 16 - million ) from the original on December 31 , 2013 . Retrieved March 3 , 2014 . 11 . Senior , Tom ( June 1 1 , 2012 ) . \" Dota 2 International 2012 tickets go on sale tomorrow \" ( http : / / ww w . pcgamer . com / 2012 / 06 / 1 1 / dota - 2 - international - 2012 - tickets - go - on - sale - tomorrow / ) . PC Gamer . Archived ( https : / / web . archive . org / web / 20131 104072320 / http : / / www . pcgamer . com / 201 2 / 06 / 1 1 / dota - 2 - international - 2012 - tickets - go - on - sale - tomorrow ) from the original on November 4 , 2013 . Retrieved March 3 , 2014 . 12 . Nunneley , Stephany ( August 31 , 2012 ) . \" The International Dota 2 Championships 2012 begins at PAX Prime \" ( http : / / www . vg247 . com / 2012 / 08 / 31 / the - international - dota - 2 - championships - 201 2 - begins - at - pax - prime / ) . VG247 . Archived ( https : / / web . archive . org / web / 201501 11204226 / http : / / www . vg247 .",
+    "token_count": 374,
+    "source_file": "The International (esports) - Wikipedia.pdf",
+    "chunk_index": 10,
+    "language": "en",
+    "processed_at": "2025-11-12T10:51:23.735707",
+    "index_id": 41
+  },
+  {
+    "id": "The International (esports) - Wikipedia_chunk_11",
+    "text": "com / 2012 / 08 / 31 / the - international - dota - 2 - championships - 2012 - begins - at - pax - prim e / ) from the original on January 1 1 , 2015 . Retrieved March 3 , 2014 . 13 . Sarkar , Samit ( September 4 , 2012 ) . \" Dota 2 International tournament 2012 winners round - up \" ( http : / / www . polygon . com / gaming / 2012 / 9 / 4 / 3291215 / dota - 2 - international - tournament - 2012 - winn ers - round - up ) . Polygon . Archived ( https : / / web . archive . org / web / 20140304004505 / http : / / www . pol ygon . com / gaming / 2012 / 9 / 4 / 3291215 / dota - 2 - international - tournament - 2012 - winners - round - up ) from the original on March 4 , 2014 . Retrieved March 3 , 2014 . 14 . Lahti , Evan ( November 16 , 2012 ) . \" Dota 2 - The International 2 documentary video released by Valve \" ( http : / / www . pcgamer . com / 2012 / 1 1 / 16 / dota - 2 - documentary - video - released - by - valve / ) . PC Gamer . Archived ( https : / / web . archive . org / web / 20140305170542 / http : / / www . pcgamer . com / 2 012 / 1 1 / 16 / dota - 2 - documentary - video - released - by - valve / ) from the original on March 5 , 2014 . Retrieved March 3 , 2014 . 15 . Dota Team ( April 26 , 2013 ) . \" The International \" ( http : / / www . dota2 . com / tournaments / internation al / announcement / ) . Valve . Archived ( https : / / web . archive . org / web / 20130428165204 / http : / / www . dota2 . com / tournaments / international / announcement ) from the original on April 28 , 2013 . 16 . Malloroy , Jordan ( May 7 , 2013 ) .",
+    "token_count": 394,
+    "source_file": "The International (esports) - Wikipedia.pdf",
+    "chunk_index": 11,
+    "language": "en",
+    "processed_at": "2025-11-12T10:51:23.735707",
+    "index_id": 42
+  },
+  {
+    "id": "The International (esports) - Wikipedia_chunk_12",
+    "text": "\" Dota 2 introduces ' Interactive Compendium ' tournament companion \" ( http : / / www . joystiq . com / 2013 / 05 / 07 / dota - 2 - introduces - interactive - compendium - tou rnament - companion / ) . Joystiq . Archived ( https : / / web . archive . org / web / 20130510073135 / http : / / w ww . joystiq . com / 2013 / 05 / 07 / dota - 2 - introduces - interactive - compendium - tournament - companio n / ) from the original on May 10 , 2013 . Retrieved May 9 , 2013 . 17 . Martin ( May 16 , 2013 ) . \" Dota 2 ' s The International 3 reaches $ 2m prize pool \" ( http : / / www . game spot . com / news / dota - 2s - the - international - 3 - reaches - 2m - prize - pool - 6408442 ) . GameSpot . Archived ( https : / / web . archive . org / web / 2013060801 1718 / http : / / www . gamespot . com / news / dota - 2s - the - international - 3 - reaches - 2m - prize - pool - 6408442 ) from the original on June 8 , 2013 . 18 . O ' Connor , Alice ( August 9 , 2013 ) . \" Watch Dota 2 ' s The International tournament this weekend \" ( http : / / www . shacknews . com / article / 80577 / watch - dota - 2s - the - international - tournament - this - wee kend ) . Shack News . Archived ( https : / / web . archive . org / web / 20131215002834 / http : / / www . shack news . com / article / 80577 / watch - dota - 2s - the - international - tournament - this - weekend ) from the original on December 15 , 2013 . Retrieved April 3 , 2014 . 11 / 11 / 25 , 11 : 47 AM The International ( esports ) - Wikipedia https : / / en . wikipedia . org / wiki / The_International_ ( esports ) 7 / 12 19 .",
+    "token_count": 392,
+    "source_file": "The International (esports) - Wikipedia.pdf",
+    "chunk_index": 12,
+    "language": "en",
+    "processed_at": "2025-11-12T10:51:23.735707",
+    "index_id": 43
+  },
+  {
+    "id": "The International (esports) - Wikipedia_chunk_13",
+    "text": "Makuch , Eddie ( August 13 , 2013 ) . \" The International hits 1 million concurrent viewers \" ( http : / / w ww . gamespot . com / articles / the - international - hits - 1 - million - concurrent - viewers / 1 100 - 641291 1 / ) . GameSpot . Archived ( https : / / web . archive . org / web / 20160904040707 / http : / / www . gamespot . com / articles / the - international - hits - 1 - million - concurrent - viewers / 1 100 - 641291 1 / ) from the original on September 4 , 2016 . Retrieved April 1 , 2014 . 20 . Williams , Katie ( March 31 , 2014 ) . \" Valve Announces Dates , Location , and Ticket Prices for The International 2014 \" ( http : / / www . ign . com / articles / 2014 / 04 / 01 / valve - announces - dates - location - an d - ticket - prices - for - the - international - 2014 ) . IGN . Archived ( https : / / web . archive . org / web / 2014040 4084148 / http : / / www . ign . com / articles / 2014 / 04 / 01 / valve - announces - dates - location - and - ticket - pri ces - for - the - international - 2014 ) from the original on April 4 , 2014 . Retrieved April 1 , 2014 . 21 . Gaston , Martin ( April 1 , 2014 ) . \" The International 2014 sells out in an hour \" ( http : / / www . games pot . com / articles / valve - announces - dates - for - dota - 2 - tournament - the - international - 2014 / 1 100 - 64 18682 / ) . GameSpot . Archived ( https : / / web . archive . org / web / 20140404065331 / http : / / www . game spot . com / articles / valve - announces - dates - for - dota - 2 - tournament - the - international - 2014 / 1 100 - 6 418682 / ) from the original on April 4 , 2014 . 22 .",
+    "token_count": 399,
+    "source_file": "The International (esports) - Wikipedia.pdf",
+    "chunk_index": 13,
+    "language": "en",
+    "processed_at": "2025-11-12T10:51:23.735707",
+    "index_id": 44
+  },
+  {
+    "id": "The International (esports) - Wikipedia_chunk_14",
+    "text": "Breslau , Rod ( April 5 , 2014 ) . \" Valve announces dates for Dota 2 tournament The International 2014 \" ( http : / / www . ongamers . com / articles / the - international - 2014 - sells - out - in - an - hour / 1 100 - 1 18 2 / ) . onGamers . Archived ( https : / / web . archive . org / web / 20140406104936 / http : / / www . ongamers . c om / articles / the - international - 2014 - sells - out - in - an - hour / 1 100 - 1 182 / ) from the original on April 6 , 2014 . Retrieved April 6 , 2014 . 23 . Vas , Gergo ( June 26 , 2014 ) . \" Dota 2 Tournament Prize Pool Exceeds $ 10 Million \" ( https : / / kotak u . com / dota - 2 - tournament - prize - pool - exceeds - 10 - million - 1596913776 ) . Kotaku . Archived ( http s : / / web . archive . org / web / 20140629212904 / http : / / kotaku . com / dota - 2 - tournament - prize - pool - exc eeds - 10 - million - 1596913776 ) from the original on June 29 , 2014 . Retrieved June 26 , 2014 . 24 . \" Dota 2 takes the Top 8 Spots in Gaming Earnings \" ( http : / / www . neutralcreeps . com / 2014 / 07 / dot a - 2 - takes - top - 8 - spots - in - gaming . html ) . Neutral Creeps - Dota 2 News From Around The World . July 24 , 2014 . Archived ( https : / / web . archive . org / web / 20140819130056 / http : / / www . neutralcreep s . com / 2014 / 07 / dota - 2 - takes - top - 8 - spots - in - gaming . html ) from the original on August 19 , 2014 . 25 . July 18 , 2014 , V alve Press Release , International Dota 2 Championships on ESPN Networks ( http : / / store . steampowered .",
+    "token_count": 393,
+    "source_file": "The International (esports) - Wikipedia.pdf",
+    "chunk_index": 14,
+    "language": "en",
+    "processed_at": "2025-11-12T10:51:23.735707",
+    "index_id": 45
+  },
+  {
+    "id": "The International (esports) - Wikipedia_chunk_15",
+    "text": "com / news / 13929 / ) Archived ( https : / / web . archive . org / web / 20140719 011046 / http : / / store . steampowered . com / news / 13929 / ) July 19 , 2014 , at the Wayback Machine , Steam 26 . Zacny , Rob ( April 25 , 2015 ) . \" Valve massively revamp competitive Dota 2 , announce Dota Major Championships \" ( https : / / www . pcgamesn . com / dota - 2 / valve - massively - revamp - competitiv e - dota - 2 - announce - dota - major - championships ) . PCGamesN . Retrieved June 21 , 2025 . 27 . Sykes , Tom ( April 25 , 2015 ) . \" Dota 2 Major Championships announced \" ( https : / / www . pcgamer . com / dota - 2 - major - championships - announced / ) . PC Gamer . Retrieved June 21 , 2025 . 28 . Campbell , Evan ( January 12 , 2016 ) . \" Dota 2 : Manila Major announced for June 2016 \" ( https : / / i n . ign . com / dota - 2 / 85856 / news / dota - 2 - manila - major - announced - 2016 ) . IGN India . Retrieved June 21 , 2025 . 29 . Chalk , Andy ( July 3 , 2017 ) . \" Valve is eliminating the Dota 2 Majors for the 2017 - 18 season \" ( htt ps : / / www . pcgamer . com / valve - is - eliminating - the - dota - 2 - majors - for - the - 2017 - 18 - season / ) . PC Gamer . Retrieved June 20 , 2025 . 30 . Rose , V ictoria ( July 25 , 2017 ) . \" The International 7 format and prize pool , explained \" ( https : / / w ww . theflyingcourier . com / 2017 / 7 / 25 / 16026514 / dota - 2 - ti7 - format - prize - pool - distribution ) . The Flying Courier . Polygon . Archived ( https : / / web . archive . org / web / 20170803045619 / https : / / www . t heflyingcourier .",
+    "token_count": 400,
+    "source_file": "The International (esports) - Wikipedia.pdf",
+    "chunk_index": 15,
+    "language": "en",
+    "processed_at": "2025-11-12T10:51:23.735707",
+    "index_id": 46
+  },
+  {
+    "id": "The International (esports) - Wikipedia_chunk_16",
+    "text": "com / 2017 / 7 / 25 / 16026514 / dota - 2 - ti7 - format - prize - pool - distribution ) from the original on August 3 , 2017 . Retrieved July 25 , 2017 . 31 . Savov , Vlad ( July 4 , 2017 ) . \" Valve is rebooting its Dota 2 tournaments for a more democratic and ' organic ' approach \" ( https : / / www . theverge . com / 2017 / 7 / 4 / 15918696 / valve - dota - 2 - majors - mi nors - tournaments - 2018 ) . The V erge . Retrieved June 20 , 2025 . 32 . Woon , James ( January 2 , 2018 ) . \" 7 Major Changes to the Dota 2 Competitive Season \" ( https : / / www . redbull . com / my - en / major - changes - to - 2018 - dota - competitive - season ) . Red Bull . Retrieved June 20 , 2025 . 11 / 11 / 25 , 11 : 47 AM The International ( esports ) - Wikipedia https : / / en . wikipedia . org / wiki / The_International_ ( esports ) 8 / 12 33 . Rose , V ictoria ( June 10 , 2018 ) . \" The International 8 qualifiers , format announced \" ( https : / / web . archive . org / web / 2018061018541 1 / https : / / www . theflyingcourier . com / 2018 / 6 / 10 / 17446340 / intern ational - ti8 - qualifier - format - slots ) . theflyingcourier . com . Archived from the original ( https : / / www . t heflyingcourier . com / 2018 / 6 / 10 / 17446340 / international - ti8 - qualifier - format - slots ) on June 10 , 2018 . Retrieved June 20 , 2025 . 34 . Michael , Cale ( September 14 , 2023 ) . \" Valve ends Dota Pro Circuit ' s 6 - year event ' stranglehold ' after TI12 \" ( https : / / dotesports . com / dota - 2 / news / valve - ends - dota - pro - circuits - 6 - year - event - stran glehold - after - ti12 ) .",
+    "token_count": 399,
+    "source_file": "The International (esports) - Wikipedia.pdf",
+    "chunk_index": 16,
+    "language": "en",
+    "processed_at": "2025-11-12T10:51:23.735707",
+    "index_id": 47
+  },
+  {
+    "id": "The International (esports) - Wikipedia_chunk_17",
+    "text": "Dot Esports . Retrieved June 22 , 2025 . 35 . Daniels , Tom ( September 15 , 2023 ) . \" Valve opens up Dota 2 esports with Dota Pro Circuit closure \" ( https : / / esportsinsider . com / 2023 / 09 / valve - dota - 2 - esports - dota - pro - circuit - closure ) . Esports Insider . Retrieved June 22 , 2025 . 36 . Gopujkar , Siddharth ( September 23 , 2012 ) . \" The International 2018 ( TI8 ) throwback meta analysis : All about the laning stage | GosuGamers \" ( https : / / www . gosugamers . net / dota2 / feature s / 54823 - the - international - 2018 - ti8 - throwback - meta - analysis - all - about - the - laning - stage ) . www . gosugamers . net . Retrieved June 22 , 2025 . 37 . Webster , Andrew ; Statt , Nick ( April 30 , 2020 ) . \" Valve indefinitely delays Dota 2 ' s The International 2020 \" ( https : / / www . theverge . com / 2020 / 4 / 30 / 21 175145 / the - international - 2020 - valv e - dota - 2 - coronavirus - delay ) . The V erge . Retrieved April 30 , 2020 . 38 . Peters , Jay ( June 22 , 2021 ) . \" Dota 2 ' s The International might not take place in Sweden after all \" ( https : / / www . theverge . com / 2021 / 6 / 22 / 22545319 / dota - 2 - the - international - valve - sweden - eur ope ) . The V erge . Retrieved June 22 , 2021 . 39 . Bailey , Dustin ( July 7 , 2021 ) . \" Dota 2 ' s The International gets new dates after Sweden says no to esports \" ( https : / / www . pcgamesn . com / dota - 2 / ti10 - date - romania ) . PCGamesN . Retrieved July 8 , 2021 . 40 . Shaw , Luke ( July 8 , 2021 ) .",
+    "token_count": 379,
+    "source_file": "The International (esports) - Wikipedia.pdf",
+    "chunk_index": 17,
+    "language": "en",
+    "processed_at": "2025-11-12T10:51:23.735707",
+    "index_id": 48
+  },
+  {
+    "id": "The International (esports) - Wikipedia_chunk_18",
+    "text": "\" ' Dota 2 ' tournament to be held in Bucharest with £ 29million prize pool \" ( https : / / www . nme . com / news / gaming - news / dota - 2 - tournament - to - be - held - in - bucharest - wit h - 29million - prize - pool - 2988555 ) . NME . Archived ( https : / / web . archive . org / web / 2021 100210132 7 / https : / / www . nme . com / news / gaming - news / dota - 2 - tournament - to - be - held - in - bucharest - with - 29 million - prize - pool - 2988555 ) from the original on October 2 , 2021 . Retrieved October 2 , 2021 . 41 . Lozano , Kurt ( October 30 , 2022 ) . \" Tundra Esports sweep Team Secret 3 - 0 to become champions of The International 1 1 \" ( https : / / sg . news . yahoo . com / tundra - secret - ti1 1 - dota - 2 - 1253 33503 . html ) . Yahoo Sports . Retrieved October 30 , 2022 . 42 . Michael , Cale ( November 4 , 2022 ) . \" The International 2022 prize pool didn ' t even hit $ 19 million , snaps historical 10 - year streak \" ( https : / / dotesports . com / dota - 2 / news / the - international - 2 022 - prize - pool - didnt - even - hit - 19 - million ) . Dot Esports . 43 . Bolding , Jonathan ( May 7 , 2023 ) . \" Dota 2 ' s world championship returns to Seattle this year \" ( ht tps : / / www . pcgamer . com / dota - 2s - world - championship - returns - to - seattle - this - year / ) . PCGamer . Retrieved October 29 , 2023 . 44 . Chen , Hongyu ( November 4 , 2022 ) . \" Sources : The International back to Seattle in ' 23 \" ( https : / / www . sportsbusinessjournal .",
+    "token_count": 381,
+    "source_file": "The International (esports) - Wikipedia.pdf",
+    "chunk_index": 18,
+    "language": "en",
+    "processed_at": "2025-11-12T10:51:23.735707",
+    "index_id": 49
+  },
+  {
+    "id": "The International (esports) - Wikipedia_chunk_19",
+    "text": "com / Daily / Closing - Bell / 2022 / 1 1 / 04 / Seattle - esports - The - Internation al - tournament . aspx ) . Sports Business Journal . Retrieved October 29 , 2023 . 45 . Hassall , Michael ( June 9 , 2025 ) . \" No more DPC as V alve shutters of ficial Dota 2 leagues \" ( http s : / / esports . gg / news / dota - 2 / no - more - dpc - as - valve - shutters - of ficial - dota - 2 - leagues / ) . esports . gg . Retrieved June 20 , 2025 . 46 . Good , Owen ( August 26 , 2018 ) . \" The International goes to China for 2019 championships \" ( htt ps : / / www . polygon . com / 2018 / 8 / 26 / 17783452 / the - international - 2019 - dates - china ) . Polygon . Retrieved July 12 , 2019 . 47 . Cybercube ( September 5 , 2018 ) . \" The end of Na V i reign : Invictus Gaming champions team then and now \" ( https : / / medium . com / @ cybercube / what - happened - to - the - winners - of - the - internat ional - 2012 - f96c9259652e ) . Medium . com . Retrieved July 12 , 2019 . 48 . Pitcher , Jenna ( August 14 , 2013 ) . \" The International attracts more than 1 million viewers \" ( http s : / / www . polygon . com / 2013 / 8 / 14 / 4619742 / the - international - attracts - more - than - 1 - million - viewer s ) . Polygon . Retrieved July 12 , 2019 . 11 / 11 / 25 , 11 : 47 AM The International ( esports ) - Wikipedia https : / / en . wikipedia . org / wiki / The_International_ ( esports ) 9 / 12 49 . Gies , Arthur ( July 21 , 2014 ) . \" Dota 2 team Newbee just won The International 4 — along with the largest eSports prize pool in history \" ( https : / / www . polygon .",
+    "token_count": 392,
+    "source_file": "The International (esports) - Wikipedia.pdf",
+    "chunk_index": 19,
+    "language": "en",
+    "processed_at": "2025-11-12T10:51:23.735707",
+    "index_id": 50
+  },
+  {
+    "id": "The International (esports) - Wikipedia_chunk_20",
+    "text": "com / 2014 / 7 / 21 / 5923971 / the - inte rnational - dota - 2 - TI4 - champions - newbee - vici - vg - 5 - million ) . Polygon . Retrieved July 12 , 2019 . 50 . Dator , James ( August 9 , 2015 ) . \" Evil Geniuses win The International Dota 2 Championship 2015 \" ( https : / / www . sbnation . com / 2015 / 8 / 8 / 91221 11 / dota - 2 - the - international - results - evil - genius es - championship - winner - cdec - gaming ) . SB Nation . Retrieved July 12 , 2019 . 51 . Walker , Dylan ( August 13 , 2016 ) . \" Wings Gaming wins the Dota 2 International 2016 , nearly $ 10 million in prize money \" ( https : / / esports . yahoo . com / wings - gaming - wins - dota - 2 - 000000469 . html ) . Yahoo ! esports . Yahoo ! . Archived ( https : / / web . archive . org / web / 20160917155051 / https : / / esports . yahoo . com / wings - gaming - wins - dota - 2 - 000000469 . html ) from the original on September 17 , 2016 . Retrieved August 14 , 2016 . 52 . Rose , V ictoria ( August 12 , 2017 ) . \" How Team Liquid swept The International 2017 Grand Finals for the $ 10 . 8M prize \" ( http : / / www . pcgamer . com / how - team - liquid - swept - the - international - 2017 - grand - finals - for - the - 108m - prize / ) . PC Gamer . Archived ( https : / / web . archive . org / web / 2017 0816233452 / http : / / www . pcgamer . com / how - team - liquid - swept - the - international - 2017 - grand - fina ls - for - the - 108m - prize / ) from the original on August 16 , 2017 . Retrieved August 16 , 2017 . 53 . Gach , Ethan ( August 27 , 2018 ) .",
+    "token_count": 391,
+    "source_file": "The International (esports) - Wikipedia.pdf",
+    "chunk_index": 20,
+    "language": "en",
+    "processed_at": "2025-11-12T10:51:23.735707",
+    "index_id": 51
+  },
+  {
+    "id": "The International (esports) - Wikipedia_chunk_21",
+    "text": "\" Tournament Underdogs W on This Year ' s Dota 2 International \" ( https : / / kotaku . com / tournament - underdogs - won - this - years - dota - 2 - internationa - 1828629983 ) . Kotaku . Archived ( https : / / web . archive . org / web / 20180827173722 / https : / / kotaku . com / tournament - underdogs - won - this - years - dota - 2 - internationa - 1828629983 ) from the original on August 27 , 2018 . Retrieved August 27 , 2018 . 54 . Michael , Cale ( August 25 , 2019 ) . \" OG make history by beating Team Liquid and winning The International 2019 \" ( https : / / dotesports . com / dota - 2 / news / og - make - history - by - beating - team - liqui d - and - winning - the - international - 2019 ) . Shack News . 55 . Carpenter , Nicole . \" Dota 2 ' s The International delayed indefinitely , likely to 2021 \" ( https : / / www . p olygon . com / 2020 / 5 / 1 / 21243964 / dota - 2 - the - international - 2020 - delayed - coronavirus - pandemic ) . Polygon . Retrieved September 23 , 2024 . 56 . Michael , Cale ( October 17 , 2021 ) . \" Team Spirit shock the world , beat PSG . LGD to win The International 10 \" ( https : / / dotesports . com / dota - 2 / news / team - spirit - shock - the - world - beat - psg - lgd - to - win - the - international - 10 ) . Dot Esports . 57 . Stubbs , Mike . \" Team Spirit Wins The International 12 To Become Two Time Champions \" ( http s : / / www . forbes . com / sites / mikestubbs / 2023 / 10 / 29 / team - spirit - wins - the - international - 12 - to - beco me - two - time - champions / ) . Forbes . Retrieved October 30 , 2023 . 58 . Stubbs , Mike .",
+    "token_count": 389,
+    "source_file": "The International (esports) - Wikipedia.pdf",
+    "chunk_index": 21,
+    "language": "en",
+    "processed_at": "2025-11-12T10:51:23.735707",
+    "index_id": 52
+  },
+  {
+    "id": "The International (esports) - Wikipedia_chunk_22",
+    "text": "\" Team Liquid Wins The International 13 ' Dota 2 ' Tournament \" ( https : / / www . forbe s . com / sites / mikestubbs / 2024 / 09 / 15 / team - liquid - wins - the - international - 13 - dota - 2 - tournament / ) . Forbes . Retrieved September 15 , 2024 . 59 . Titas Khan ( September 15 , 2025 ) . \" Ame remains uncrowned as Team Falcons outclass Xtreme Gaming in TI 2025 final \" ( https : / / dotesports . com / dota - 2 / news / falcons - wins - ti - 2025 ) . Dot Esports . Retrieved September 15 , 2025 . 60 . \" Dota 2 Esports \" ( https : / / www . dota2 . com / esports / ti14 ) . www . dota2 . com . Retrieved October 10 , 2025 . 61 . Olivia Richman ( September 15 , 2025 ) . \" The International 2026 is heading to Shanghai , China \" ( https : / / esportsinsider . com / 2025 / 09 / the - international - 2026 - shanghai - china ) . Esports Insider . Retrieved September 15 , 2025 . 62 . Maas , Lea ( May 15 , 2025 ) . \" The International 2025 direct invites have been revealed \" ( https : / / e sportsinsider . com / 2025 / 05 / the - international - 2025 - direct - invites ) . Esports Insider . Retrieved June 21 , 2025 . 63 . \" Introducing the Interactive Compendium \" ( http : / / blog . dota2 . com / 2013 / 05 / introducing - the - intera ctive - compendium / ) . Dota 2 . Archived ( https : / / web . archive . org / web / 2016081 1043833 / http : / / blo g . dota2 . com / 2013 / 05 / introducing - the - interactive - compendium / ) from the original on August 1 1 , 2016 . Retrieved July 7 , 2016 . 11 / 11 / 25 , 11 : 47 AM The International ( esports ) - Wikipedia https : / / en . wikipedia . org / wiki / The_International_ ( esports ) 10 / 12 64 .",
+    "token_count": 400,
+    "source_file": "The International (esports) - Wikipedia.pdf",
+    "chunk_index": 22,
+    "language": "en",
+    "processed_at": "2025-11-12T10:51:23.736718",
+    "index_id": 53
+  },
+  {
+    "id": "The International (esports) - Wikipedia_chunk_23",
+    "text": "Van Allen , Eric ( July 13 , 2017 ) . \" How Exactly Does Dota 2 Come Up With Over $ 20 Million In Prizes For Its Biggest Event ? \" ( https : / / compete . kotaku . com / how - exactly - does - dota - 2 - come - up - with - over - 20 - million - i - 1796879005 ) . Kotaku . Archived ( https : / / web . archive . org / web / 201707140 10129 / http : / / compete . kotaku . com / how - exactly - does - dota - 2 - come - up - with - over - 20 - million - i - 179 6879005 ) from the original on July 14 , 2017 . Retrieved July 14 , 2017 . 65 . Gaston , Martin ( May 16 , 2013 ) . \" Dota 2 ' s The International 3 reaches $ 2m prize pool \" ( http : / / w ww . gamespot . com / articles / dota - 2s - the - international - 3 - reaches - 2m - prize - pool / 1 100 - 6408442 / ) . GameSpot . Archived ( https : / / web . archive . org / web / 20131 118055918 / http : / / www . gamespot . com / articles / dota - 2s - the - international - 3 - reaches - 2m - prize - pool / 1 100 - 6408442 / ) from the original on November 18 , 2013 . 66 . Schulenberg , Thomas ( August 4 , 2013 ) . \" The International 3 begins , Prize pool of over $ 2 . 8 million \" ( http : / / www . joystiq . com / 2013 / 08 / 04 / dota - 2 - international - begins - prize - pool - over - 2 - 8 - milli on / ) . Joystiq . Archived ( https : / / web . archive . org / web / 20130807002328 / http : / / www . joystiq .",
+    "token_count": 364,
+    "source_file": "The International (esports) - Wikipedia.pdf",
+    "chunk_index": 23,
+    "language": "en",
+    "processed_at": "2025-11-12T10:51:23.736718",
+    "index_id": 54
+  },
+  {
+    "id": "The International (esports) - Wikipedia_chunk_24",
+    "text": "com / 2 013 / 08 / 04 / dota - 2 - international - begins - prize - pool - over - 2 - 8 - million ) from the original on August 7 , 2013 . Retrieved August 15 , 2013 . 67 . \" Dota 2 Prize Pool Tracker \" ( https : / / dota2 . prizetrac . kr / ) . Dota 2 Prize Pool T racker . Retrieved November 5 , 2022 . 68 . Kharpal , Arjun ; Roy Choudhury , Saheli ( October 3 , 2018 ) . \" Pro video gamers are making millions by age 30 in the booming world of ' esports ' \" ( https : / / www . cnbc . com / 2018 / 10 / 03 / esport s - pro - video - gamers - are - making - millions - by - age - 30 - and - retiring . html ) . CNBC . Archived ( https : / / web . archive . org / web / 20181004103904 / https : / / www . cnbc . com / 2018 / 10 / 03 / esports - pro - video - ga mers - are - making - millions - by - age - 30 - and - retiring . html ) from the original on October 4 , 2018 . Retrieved October 4 , 2018 . 69 . Shaw , Luke ( July 8 , 2021 ) . \" ' Dota 2 ' tournament to be held in Bucharest with £ 29million prize pool \" ( https : / / www . nme . com / news / gaming - news / dota - 2 - tournament - to - be - held - in - bucharest - wit h - 29million - prize - pool - 2988555 ) . NME . Retrieved October 2 , 2021 . 70 . Stubbs , Mike . \" The ' Dota 2 ' International Starts Tomorrow , But You W ouldn ' t Know It \" ( https : / / w ww . forbes . com / sites / mikestubbs / 2024 / 09 / 03 / the - dota - 2 - international - starts - tomorrow - but - you - wouldnt - know - it / ) . Forbes . Retrieved September 23 , 2024 . 71 .",
+    "token_count": 399,
+    "source_file": "The International (esports) - Wikipedia.pdf",
+    "chunk_index": 24,
+    "language": "en",
+    "processed_at": "2025-11-12T10:51:23.736718",
+    "index_id": 55
+  },
+  {
+    "id": "The International (esports) - Wikipedia_chunk_25",
+    "text": "\" Dota 2 - Aegis of Champions \" ( http : / / www . dota2 . com / aegisofchampions ) . Dota 2 . Archived ( htt ps : / / web . archive . org / web / 20160707082546 / http : / / www . dota2 . com / aegisofchampions ) from the original on July 7 , 2016 . Retrieved July 12 , 2016 . 72 . \" The Collector ' s Aegis of Champions \" ( http : / / blog . dota2 . com / 2015 / 07 / the - collectors - aegis - of - ch ampions / ) . Dota 2 . Archived ( https : / / web . archive . org / web / 20160710165019 / http : / / blog . dota2 . co m / 2015 / 07 / the - collectors - aegis - of - champions / ) from the original on July 10 , 2016 . Retrieved July 10 , 2016 . 73 . Van Allen , Eric ( August 5 , 2016 ) . \" TobiW an : The voice of Dota 2 \" ( http : / / www . espn . com / esport s / story / _ / id / 17227728 / voice - dota - 2 ) . ESPN . Archived ( https : / / web . archive . org / web / 2016080613 3102 / http : / / www . espn . com / esports / story / _ / id / 17227728 / voice - dota - 2 ) from the original on August 6 , 2016 . Retrieved August 6 , 2016 . 74 . Rose , V ictoria ( September 8 , 2017 ) . \" Torte de Lini on the Newcomer Stream : ' Y ou have to feel like you ' re part of the community ' \" ( https : / / www . theflyingcourier . com / 2017 / 9 / 8 / 16255434 / dota - 2 - michael - torte - de - lini - cohen - newcomer - stream - interview ) . The Flying Courier . Polygon . Retrieved September 12 , 2019 . 75 . Devore , Jordan ( March 19 , 2014 ) .",
+    "token_count": 382,
+    "source_file": "The International (esports) - Wikipedia.pdf",
+    "chunk_index": 25,
+    "language": "en",
+    "processed_at": "2025-11-12T10:51:23.736718",
+    "index_id": 56
+  },
+  {
+    "id": "The International (esports) - Wikipedia_chunk_26",
+    "text": "\" Dota 2 documentary Free to Play : The Movie released \" ( htt p : / / www . destructoid . com / dota - 2 - documentary - free - to - play - the - movie - released - 272184 . phtml ) . Destructoid . Archived ( https : / / web . archive . org / web / 20140413143332 / http : / / www . destructoid . co m / dota - 2 - documentary - free - to - play - the - movie - released - 272184 . phtml ) from the original on April 13 , 2014 . Retrieved April 9 , 2014 . 76 . Albert , Brian ( March 21 , 2014 ) . \" Free to Play review \" ( http : / / www . ign . com / articles / 2014 / 03 / 21 / fr ee - to - play - review ) . IGN . Archived ( https : / / web . archive . org / web / 20140322124133 / http : / / www . ig n . com / articles / 2014 / 03 / 21 / free - to - play - review ) from the original on March 22 , 2014 . Retrieved January 22 , 2014 . 11 / 11 / 25 , 11 : 47 AM The International ( esports ) - Wikipedia https : / / en . wikipedia . org / wiki / The_International_ ( esports ) 11 / 12 77 . Thursten , Chris ( October 13 , 2016 ) . \" Valve ' s latest Dota 2 documentary series starts today \" ( htt p : / / www . pcgamer . com / valves - latest - dota - 2 - documentary - series - starts - today / ) . PC Gamer . Archived ( https : / / web . archive . org / web / 20161014061044 / http : / / www . pcgamer . com / valves - latest - dota - 2 - documentary - series - starts - today / ) from the original on October 14 , 2016 . Retrieved October 13 , 2016 . 78 . Rose , V ictoria ( September 27 , 2017 ) .",
+    "token_count": 384,
+    "source_file": "The International (esports) - Wikipedia.pdf",
+    "chunk_index": 26,
+    "language": "en",
+    "processed_at": "2025-11-12T10:51:23.736718",
+    "index_id": 57
+  },
+  {
+    "id": "The International (esports) - Wikipedia_chunk_27",
+    "text": "\" True Sight mini - documentary , this time featuring TI7 ' s Grand Finals , is now available to watch \" ( https : / / www . theflyingcourier . com / 2017 / 9 / 27 / 1637607 4 / true - sight - the - international - 7 - dota - 2 - esports - documentary ) . The Flying Courier . Polygon . Archived ( https : / / web . archive . org / web / 20171013013349 / https : / / www . theflyingcourier . com / 2017 / 9 / 27 / 16376074 / true - sight - the - international - 7 - dota - 2 - esports - documentary ) from the original on October 13 , 2017 . Retrieved October 12 , 2017 . 79 . foxssportsasia . \" Dota 2 : Latest ' T rue Sight ' documentary on OG ' s victory in TI8 is a must - watch \" ( https : / / web . archive . org / web / 20190203174956 / https : / / www . foxsportsasia . com / esports / d ota2 / 1020729 / dota - 2 - latest - true - sight - documentary - on - ogs - victory - in - ti8 - is - a - must - watch / ) . Fox Sports . Archived from the original ( https : / / www . foxsportsasia . com / esports / dota2 / 1020729 / dota - 2 - latest - true - sight - documentary - on - ogs - victory - in - ti8 - is - a - must - watch / ) on February 3 , 2019 . Retrieved January 14 , 2018 . 80 . \" True Sight — The International 2019 | Dota 2 \" ( http : / / blog . dota2 . com / 2020 / 01 / true - sight - the - int ernational - 2019 / ) . Retrieved April 9 , 2020 . 81 . True Sight : The International 2021 Finals ( https : / / www . youtube . com / watch ? v = NFEwN1N3vv A ) , retrieved September 25 , 2022 Official website ( https : / / www . dota2 . com / esports ) Retrieved from \" https : / / en . wikipedia .",
+    "token_count": 399,
+    "source_file": "The International (esports) - Wikipedia.pdf",
+    "chunk_index": 27,
+    "language": "en",
+    "processed_at": "2025-11-12T10:51:23.736718",
+    "index_id": 58
+  },
+  {
+    "id": "The International (esports) - Wikipedia_chunk_28",
+    "text": "org / w / index . php ? title = The_International_ ( esports ) & oldid = 1316273318 \" External links11 / 11 / 25 , 11 : 47 AM The International ( esports ) - Wikipedia https : / / en . wikipedia . org / wiki / The_International_ ( esports ) 12 / 12",
+    "token_count": 56,
+    "source_file": "The International (esports) - Wikipedia.pdf",
+    "chunk_index": 28,
+    "language": "en",
+    "processed_at": "2025-11-12T10:51:23.736718",
+    "index_id": 59
+  }
+]

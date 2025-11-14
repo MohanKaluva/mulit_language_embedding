@@ -1,0 +1,49 @@
+{
+  "processed_at": "2025-11-12T10:51:39.547582",
+  "statistics": {
+    "total_files": 3,
+    "processed_files": 3,
+    "failed_files": 0,
+    "duplicate_files": 0,
+    "total_chunks": 60,
+    "total_tokens": 22609,
+    "total_embeddings": 60
+  },
+  "config": {
+    "chunk_size_min": 250,
+    "chunk_size_max": 400,
+    "embedding_model": "sentence-transformers/paraphrase-multilingual-mpnet-base-v2",
+    "embedding_dim": 768
+  },
+  "output_files": [
+    {
+      "input_file": "Dota patch 7.39e.docx",
+      "output_file": "Dota patch 7.39e_clean.jsonl",
+      "chunk_count": 5,
+      "token_count": 1821,
+      "language": "en"
+    },
+    {
+      "input_file": "Dota Wiki.txt",
+      "output_file": "Dota Wiki_clean.jsonl",
+      "chunk_count": 26,
+      "token_count": 9860,
+      "language": "en"
+    },
+    {
+      "input_file": "The International (esports) - Wikipedia.pdf",
+      "output_file": "The International (esports) - Wikipedia_clean.jsonl",
+      "chunk_count": 29,
+      "token_count": 10928,
+      "language": "en"
+    }
+  ],
+  "index_info": {
+    "total_vectors": 60,
+    "embedding_dim": 768,
+    "metadata_entries": 60
+  },
+  "languages": {
+    "en": 60
+  }
+}
